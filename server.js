@@ -8,54 +8,43 @@ app.use(cors());
 app.use(express.json());
 app.use(express.urlencoded({ extended: true }));
 
-const calculateRisk = (student) => {
-  let riskScore = 0;
-  let reasons = [];
-
-  const attendance = parseFloat(student.attendance);
-  const marks = parseFloat(student.marks);
-
-  if (attendance < 75) {
-    riskScore += 40;
-    reasons.push('Low attendance');
-  }
-
-  if (marks < 50) {
-    riskScore += 40;
-    reasons.push('Academic decline (low marks)');
-  }
-
-  if (student.fees_status.toLowerCase() !== 'paid') {
-    riskScore += 20;
-    reasons.push('Fee delays');
-  }
-
-  riskScore = Math.min(riskScore, 100);
-
-  return {
-    riskScore: riskScore,
-    riskLevel: riskScore >= 80 ? 'red' : riskScore >= 50 ? 'yellow' : 'green',
-    reasons: reasons,
-  };
-};
-
-app.post('/api/analyze-student', (req, res) => {
+app.post('/api/analyze-student', async (req, res) => {
   const student = req.body;
-  if (!student || !student.name || !student.attendance || !student.marks || !student.fees_status) {
-    return res.status(400).json({ message: 'Missing required student data.' });
+
+  try {
+    // Forward the student data directly to your FastAPI microservice
+    const aiResponse = await fetch('http://localhost:8000/predict', {
+      method: 'POST',
+      headers: {
+        'Content-Type': 'application/json'
+      },
+      body: JSON.stringify(student),
+    });
+
+    if (!aiResponse.ok) {
+      throw new Error(`AI service failed with status: ${aiResponse.status}`);
+    }
+
+    // Get the prediction from the AI service
+    const predictionResult = await aiResponse.json();
+
+    // Send the AI service's response directly back to the frontend
+    res.status(200).json(predictionResult);
+
+  } catch (error) {
+    console.error('Error during AI analysis:', error);
+    res.status(500).json({
+      message: 'Internal server error. Failed to get prediction from AI service.',
+      error: error.message,
+    });
   }
+});
 
-  const risk = calculateRisk(student);
-
-  res.status(200).json({
-    message: 'Student risk analyzed successfully.',
-    student: {
-      name: student.name,
-      ...risk,
-    },
-  });
+// A simple root endpoint to confirm the server is running
+app.get('/', (req, res) => {
+  res.send('Backend for Student Retention Platform is running!');
 });
 
 app.listen(PORT, () => {
-  console.log(`Server is running on http://localhost:${PORT}`);
+  console.log(`Node.js server running on http://localhost:${PORT}`);
 });
