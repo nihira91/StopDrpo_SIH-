@@ -1,0 +1,801 @@
+student_id,name,branch,year,admission_year,age,avg_attendance_overall,last_4_week_attendance,current_sgpa,cgpa,backlog_prev,backlog_curr,fee_status,lms_logins_30d,dropout_label
+S0001,Aryan Maharaj,Information Technology,1,2025,18,77.36,74.99,6.86,6.9,0,0,paid,5,0
+S0002,Liam Chaudry,Information Technology,1,2021,22,87.75,87.24,7.37,7.33,0,0,paid,11,0
+S0003,Pahal Balay,Electrical Engineering,2,2020,17,62.85,55.98,6.08,6.68,0,0,paid,7,0
+S0004,Tejas Kaul,Production and Industrial Engineering,4,2021,21,77.51,80.25,8.2,8.01,0,0,paid,6,0
+S0005,Rushil Saini,Electronics and Communication Engineering,4,2020,18,58.01,43.38,6.09,6.97,0,0,paid,10,0
+S0006,Arunima Ahuja,Information Technology,1,2022,23,91.01,94.46,7.56,7.5,0,0,paid,7,0
+S0007,Pahal Oak,Mathematics and Computing,3,2022,19,71.09,80.78,5.42,5.78,0,0,paid,8,0
+S0008,Tanveer Nayar,Information Technology,4,2024,17,60.75,51.57,5.89,5.22,0,0,paid,1,0
+S0009,Lajita Chatterjee,Mathematics and Computing,3,2025,19,74.49,86.11,7.86,7.89,1,1,paid,14,0
+S0010,Aishani Bassi,Electrical Engineering,3,2020,22,87.03,100.0,8.22,7.62,0,0,overdue,11,0
+S0011,Jeet Radhakrishnan,Chemical Engineering,3,2020,17,88.17,96.43,8.41,8.06,2,2,overdue,5,0
+S0012,Janaki Handa,Civil Engineering,3,2021,22,77.94,80.23,8.92,8.13,0,0,paid,4,0
+S0013,Chakradev Kari,Information Technology,2,2025,23,53.69,34.35,6.95,7.02,2,2,paid,3,0
+S0014,Fariq Kaul,Chemical Engineering,3,2023,23,77.71,79.42,5.03,5.2,2,2,paid,2,0
+S0015,Lajita Mall,Electrical Engineering,3,2024,20,85.1,92.01,5.21,6.25,1,1,overdue,5,0
+S0016,Nicholas Prabhakar,Computer Science Engineering,3,2021,19,86.02,100.0,8.43,8.21,0,0,paid,14,0
+S0017,Amara Bora,Civil Engineering,2,2024,21,46.1,30.41,5.55,5.65,0,0,paid,6,0
+S0018,Yash Gade,Biotechnology,2,2025,20,51.14,34.47,6.93,6.98,0,0,paid,12,0
+S0019,Anamika Kanda,Production and Industrial Engineering,3,2024,22,78.93,78.69,7.24,7.18,1,1,paid,12,0
+S0020,Daksh Karnik,Chemical Engineering,3,2024,23,66.91,64.76,8.26,7.92,2,2,overdue,5,0
+S0021,Diya Rattan,Biotechnology,1,2024,19,99.44,100.0,6.23,6.13,1,1,overdue,5,0
+S0022,Siddharth Murty,Electronics and Communication Engineering,4,2021,18,64.49,54.36,6.22,6.28,0,0,paid,7,0
+S0023,Meghana Shanker,Biotechnology,3,2024,18,87.66,92.52,7.13,7.17,0,0,overdue,16,0
+S0024,Liam Koshy,Information Technology,3,2020,22,72.82,60.43,6.74,6.91,1,1,paid,6,0
+S0025,Priya Rastogi,Chemical Engineering,2,2022,19,58.69,38.49,8.12,8.06,1,1,overdue,1,0
+S0026,Lakshit Upadhyay,Mechanical Engineering,2,2025,20,86.01,96.96,7.69,7.64,0,0,paid,0,0
+S0027,Champak Choudhary,Mechanical Engineering,2,2025,18,88.67,99.95,8.23,7.66,1,1,overdue,13,0
+S0028,Pahal Bhatt,Production and Industrial Engineering,1,2024,20,58.19,48.08,7.68,7.55,1,1,paid,5,0
+S0029,Upadhriti Wadhwa,Civil Engineering,3,2020,19,97.44,100.0,6.79,6.34,1,1,paid,10,0
+S0030,Ishwar Yadav,Information Technology,1,2024,23,70.06,64.43,6.49,6.6,0,0,overdue,7,0
+S0031,Harini Choudhury,Electronics and Communication Engineering,2,2024,19,85.55,99.46,6.09,6.06,0,0,overdue,8,0
+S0032,Nakul Setty,Mechanical Engineering,4,2021,17,78.28,87.69,5.41,6.04,0,0,overdue,5,0
+S0033,Xiti Gokhale,Electrical Engineering,3,2025,21,90.03,95.58,6.58,6.68,0,0,paid,8,0
+S0034,Chanchal Tripathi,Biotechnology,4,2022,21,97.59,100.0,6.2,5.52,0,0,paid,9,0
+S0035,Michael Prakash,Computer Science Engineering,2,2022,23,58.21,58.46,7.14,6.95,1,1,paid,0,0
+S0036,Aadi Naik,Computer Science Engineering,2,2025,20,88.03,75.82,5.04,5.21,0,0,paid,13,0
+S0037,Isaac Patil,Information Technology,2,2022,23,85.18,95.76,7.92,6.98,0,0,paid,3,0
+S0038,Wriddhish Bhardwaj,Electronics and Communication Engineering,4,2024,18,80.1,98.55,5.87,5.71,0,0,paid,7,0
+S0039,Frederick Sunder,Electrical Engineering,1,2023,23,69.88,65.52,4.85,4.81,0,0,paid,12,1
+S0040,Jeremiah Dave,Computer Science Engineering,1,2023,22,67.85,48.07,4.63,4.64,0,0,overdue,8,1
+S0041,Noah Lanka,Electrical Engineering,2,2020,21,60.43,65.25,7.97,8.13,0,0,paid,10,0
+S0042,Siddharth Zacharia,Electronics and Communication Engineering,3,2023,23,65.6,55.0,5.87,6.36,2,2,overdue,8,0
+S0043,Devika Rastogi,Biotechnology,1,2020,22,94.4,100.0,4.46,4.46,0,0,overdue,8,1
+S0044,Raksha Varughese,Electrical Engineering,2,2020,20,46.78,27.64,5.42,5.82,0,0,paid,7,0
+S0045,Yug Kar,Computer Science Engineering,2,2023,17,92.33,100.0,8.48,8.52,0,0,overdue,10,0
+S0046,Ansh Karpe,Biotechnology,3,2022,21,81.1,77.58,7.82,7.32,0,0,overdue,8,0
+S0047,Abhimanyu Bobal,Biotechnology,2,2024,22,70.31,67.17,7.66,7.71,0,0,paid,9,0
+S0048,Veer Bir,Mathematics and Computing,1,2020,17,74.5,63.67,5.07,5.23,0,0,paid,13,0
+S0049,Ekavir Varkey,Biotechnology,2,2024,18,80.59,96.13,3.82,3.75,0,0,overdue,8,1
+S0050,Vedika Kala,Mathematics and Computing,1,2020,21,95.54,100.0,7.99,8.04,0,0,paid,6,0
+S0051,Urvashi Kibe,Mathematics and Computing,2,2020,23,84.68,76.73,7.36,7.45,0,0,paid,3,0
+S0052,Niharika Gupta,Chemical Engineering,3,2020,17,62.67,42.42,9.81,9.24,1,1,paid,7,0
+S0053,Raagini Pandya,Civil Engineering,2,2025,20,60.47,53.4,7.87,7.71,0,0,paid,9,0
+S0054,Unni Bhagat,Mechanical Engineering,4,2025,22,59.27,54.25,6.65,6.9,0,0,overdue,5,0
+S0055,Darsh Rau,Computer Science Engineering,4,2020,22,83.83,96.09,7.54,7.04,0,0,paid,9,0
+S0056,Ikbal Kothari,Information Technology,2,2020,18,82.63,90.53,7.81,7.79,0,0,paid,6,0
+S0057,Saumya Dey,Information Technology,2,2022,20,71.26,80.44,7.8,8.2,0,0,paid,14,0
+S0058,Arya Shere,Mechanical Engineering,1,2024,18,82.11,79.79,7.56,7.44,1,1,paid,4,0
+S0059,Saanvi Chaudhari,Information Technology,2,2025,17,56.87,57.99,8.55,8.29,0,0,overdue,14,0
+S0060,Girik Khalsa,Production and Industrial Engineering,2,2025,18,78.43,87.71,8.45,7.94,1,1,paid,13,0
+S0061,Vedika Srivastava,Civil Engineering,2,2025,18,46.36,38.07,8.21,8.33,1,1,overdue,3,0
+S0062,Daniel Gala,Biotechnology,3,2024,20,44.23,20.36,8.17,7.73,0,0,overdue,11,0
+S0063,Madhavi Lanka,Chemical Engineering,3,2020,23,70.65,76.45,3.6,3.9,1,2,paid,10,1
+S0064,Bhavika Sampath,Electronics and Communication Engineering,4,2022,22,89.06,95.09,8.24,7.89,0,0,paid,12,0
+S0065,Mohammed Gupta,Information Technology,1,2020,19,65.18,64.27,7.11,6.96,0,0,paid,10,0
+S0066,Dalbir Bhat,Production and Industrial Engineering,1,2021,22,64.03,60.43,6.43,6.56,0,0,paid,12,0
+S0067,Dakshesh Bedi,Chemical Engineering,2,2021,21,69.69,69.07,4.57,4.61,0,1,overdue,7,1
+S0068,Yadavi Wali,Civil Engineering,2,2020,18,69.44,68.72,5.71,6.12,1,1,paid,10,0
+S0069,Yashoda Buch,Production and Industrial Engineering,4,2022,23,67.39,67.65,8.17,7.8,1,1,paid,8,0
+S0070,Ekapad Bir,Electronics and Communication Engineering,2,2021,22,74.43,75.91,6.02,6.0,0,0,paid,7,0
+S0071,Netra Dar,Civil Engineering,4,2025,21,60.96,57.94,6.34,6.5,0,0,overdue,10,0
+S0072,Balveer Bumb,Mechanical Engineering,2,2021,20,48.9,36.04,8.56,8.27,0,0,paid,11,0
+S0073,Advika Jayaraman,Biotechnology,2,2020,22,70.49,50.17,6.24,6.37,0,0,overdue,9,0
+S0074,William Lanka,Mechanical Engineering,2,2022,20,92.52,100.0,5.89,6.13,0,0,paid,13,0
+S0075,Charita Shankar,Civil Engineering,3,2023,19,73.65,78.46,7.36,6.9,0,0,overdue,7,0
+S0076,Aditya Shanker,Civil Engineering,4,2022,21,66.09,50.45,6.96,6.72,0,0,overdue,8,0
+S0077,Ethan Yogi,Computer Science Engineering,1,2022,18,50.1,36.5,6.35,6.5,1,1,paid,2,0
+S0078,Kevin Palla,Mechanical Engineering,1,2024,17,91.37,100.0,7.71,7.86,2,2,paid,1,0
+S0079,Kala Mane,Civil Engineering,4,2025,18,85.67,90.14,4.92,5.87,0,0,paid,5,0
+S0080,Chasmum Wadhwa,Electrical Engineering,3,2024,17,89.13,100.0,6.53,5.49,0,0,paid,8,0
+S0081,Hemang Desai,Production and Industrial Engineering,2,2024,19,80.94,88.5,10.0,9.55,0,0,paid,3,0
+S0082,Hredhaan Dugal,Civil Engineering,3,2025,19,71.56,82.84,6.73,6.96,0,0,paid,5,0
+S0083,Shivansh Oza,Production and Industrial Engineering,3,2022,18,96.76,100.0,6.14,6.61,0,0,paid,12,0
+S0084,Yashasvi Suresh,Mechanical Engineering,2,2025,19,81.23,83.67,7.55,7.65,0,0,paid,5,0
+S0085,George Sampath,Electronics and Communication Engineering,3,2023,23,96.25,100.0,7.77,7.56,0,0,overdue,7,0
+S0086,Chaitanya Aggarwal,Mechanical Engineering,2,2022,19,48.21,33.8,7.21,7.58,0,0,paid,10,0
+S0087,Adweta Edwin,Civil Engineering,4,2025,22,88.55,96.67,6.2,6.14,1,1,paid,9,0
+S0088,Prisha Andra,Biotechnology,2,2024,17,98.56,100.0,8.92,8.71,0,0,paid,6,0
+S0089,Manthan Banik,Mathematics and Computing,3,2025,23,69.5,70.77,5.2,5.1,0,0,overdue,11,0
+S0090,Manbir Sani,Mechanical Engineering,2,2021,18,70.91,71.1,6.49,6.49,0,0,paid,5,0
+S0091,Darika Patla,Electrical Engineering,4,2020,23,76.96,78.82,7.22,7.0,1,1,overdue,6,0
+S0092,Ishita Kade,Chemical Engineering,2,2023,22,76.72,71.33,6.77,6.79,0,0,paid,12,0
+S0093,Harshil Pandya,Electrical Engineering,2,2023,23,88.16,90.02,4.16,4.56,0,1,overdue,12,1
+S0094,Mohammed Khalsa,Chemical Engineering,2,2020,23,62.96,57.63,6.8,6.58,0,0,overdue,8,0
+S0095,Peter Sachar,Biotechnology,1,2024,17,92.54,100.0,7.69,7.81,0,0,overdue,3,0
+S0096,Gaurangi Sabharwal,Biotechnology,2,2020,23,77.29,76.42,6.22,6.42,0,0,paid,0,0
+S0097,Amara Dutta,Mathematics and Computing,3,2024,23,86.85,100.0,6.12,6.15,0,0,overdue,8,0
+S0098,Lavanya Barad,Production and Industrial Engineering,4,2024,23,48.9,30.27,6.31,6.92,0,0,paid,6,0
+S0099,Tristan Iyengar,Biotechnology,4,2021,23,81.43,87.08,6.83,6.58,0,0,paid,9,0
+S0100,Inaya Mody,Mechanical Engineering,4,2025,23,91.79,99.03,5.37,5.52,0,0,paid,6,0
+S0101,Udant Bajwa,Mechanical Engineering,2,2020,22,72.09,78.11,6.06,5.75,0,0,paid,9,0
+S0102,Mohini Narasimhan,Information Technology,2,2024,19,48.56,24.52,6.88,6.48,0,0,paid,10,0
+S0103,Arya Panchal,Electrical Engineering,1,2021,22,58.84,52.26,6.75,6.44,0,0,paid,10,0
+S0104,Garima Bala,Chemical Engineering,1,2023,17,95.73,100.0,8.25,8.39,0,0,paid,15,0
+S0105,Pranav Lanka,Computer Science Engineering,4,2024,17,78.03,87.68,9.65,8.47,0,0,overdue,8,0
+S0106,Radha Pai,Chemical Engineering,4,2022,22,92.05,100.0,7.34,7.07,0,0,paid,5,0
+S0107,Rajata Vaidya,Electrical Engineering,4,2024,17,61.37,37.97,7.42,8.18,0,0,paid,10,0
+S0108,Ranveer Kumar,Chemical Engineering,3,2020,17,87.08,100.0,7.11,6.43,0,0,overdue,9,0
+S0109,Aarav Venkatesh,Electronics and Communication Engineering,4,2025,23,45.52,18.35,6.66,7.13,0,0,overdue,7,0
+S0110,Januja Sankar,Computer Science Engineering,4,2024,17,72.67,66.38,8.85,8.09,1,1,paid,5,0
+S0111,Dipta Dash,Chemical Engineering,2,2020,22,53.66,34.7,6.52,6.45,0,0,paid,7,0
+S0112,Yashica More,Chemical Engineering,3,2022,22,41.49,14.64,6.63,6.24,0,0,paid,7,0
+S0113,Eta Rau,Mechanical Engineering,4,2023,22,82.71,91.33,8.48,8.06,0,0,paid,4,0
+S0114,Joshua Handa,Production and Industrial Engineering,1,2020,20,84.53,79.31,7.13,7.34,0,0,paid,7,0
+S0115,Owen Mitra,Information Technology,1,2025,20,72.26,57.85,8.35,8.32,0,0,overdue,4,0
+S0116,Daksha Mangat,Computer Science Engineering,2,2021,18,58.59,49.11,6.6,6.74,1,1,paid,4,0
+S0117,Ekanta Shroff,Mathematics and Computing,2,2020,20,55.18,47.8,7.25,7.4,1,1,paid,7,0
+S0118,Tanay Vaidya,Electronics and Communication Engineering,1,2022,20,72.18,66.44,6.71,6.6,1,1,paid,2,0
+S0119,Frado Mander,Information Technology,1,2022,21,79.94,87.31,7.76,7.72,0,0,paid,9,0
+S0120,Girik Keer,Chemical Engineering,2,2023,22,76.22,76.37,4.89,4.61,0,0,paid,6,1
+S0121,Umang Issac,Mechanical Engineering,1,2020,18,91.2,99.49,7.99,8.01,0,0,paid,7,0
+S0122,Chakradhar Konda,Civil Engineering,4,2020,20,62.39,54.66,5.04,5.54,0,0,paid,3,0
+S0123,Tamanna Sachdeva,Civil Engineering,1,2025,22,70.4,63.4,6.89,7.02,0,0,overdue,8,0
+S0124,Leena Talwar,Chemical Engineering,3,2020,20,58.99,53.63,8.12,8.11,0,0,overdue,3,0
+S0125,Manbir Ahluwalia,Electronics and Communication Engineering,4,2025,23,97.51,100.0,9.23,8.07,1,1,paid,11,0
+S0126,Pavani Kanda,Mechanical Engineering,4,2025,18,55.18,41.62,6.84,7.07,0,0,overdue,5,0
+S0127,Chandresh Krish,Mechanical Engineering,3,2024,23,55.1,45.5,6.67,6.66,0,0,overdue,10,0
+S0128,Tanmayi Deol,Mechanical Engineering,4,2020,23,76.07,72.93,7.73,7.88,0,0,paid,3,0
+S0129,Edhitha Savant,Chemical Engineering,3,2024,21,91.69,100.0,4.7,4.85,0,0,paid,0,1
+S0130,Sanaya Dutt,Civil Engineering,3,2021,22,60.91,56.18,8.39,7.81,0,0,overdue,7,0
+S0131,Shivani Lad,Mechanical Engineering,1,2025,23,84.09,85.56,7.17,7.14,0,0,paid,8,0
+S0132,Aradhana Verma,Chemical Engineering,4,2021,20,60.7,49.07,5.51,6.15,0,0,paid,8,0
+S0133,Anvi Sarraf,Biotechnology,4,2023,17,48.77,32.41,9.39,8.83,0,0,paid,11,0
+S0134,Wahab Magar,Chemical Engineering,2,2021,19,83.58,90.0,7.2,7.24,0,0,paid,7,0
+S0135,Faris Devi,Production and Industrial Engineering,3,2023,18,90.63,100.0,7.23,7.01,1,1,paid,1,0
+S0136,Leela Dua,Civil Engineering,4,2022,22,70.64,66.23,7.85,8.31,0,0,paid,5,0
+S0137,Devansh Sachdeva,Electrical Engineering,3,2020,20,43.71,28.89,7.34,6.87,1,1,paid,9,0
+S0138,Unnati Sagar,Electronics and Communication Engineering,2,2025,17,38.52,27.41,7.95,7.55,0,0,paid,1,0
+S0139,Osha Ramachandran,Mathematics and Computing,3,2025,23,60.18,49.31,8.63,8.13,1,1,overdue,12,0
+S0140,Lajita Sood,Electrical Engineering,3,2022,17,95.17,99.7,7.5,7.52,0,0,paid,0,0
+S0141,Chanchal Ramakrishnan,Electronics and Communication Engineering,3,2024,23,70.22,72.4,5.18,4.98,1,1,paid,12,1
+S0142,Thomas Sura,Electronics and Communication Engineering,4,2022,18,90.07,91.99,7.09,6.7,0,0,paid,0,0
+S0143,Rajata Sunder,Biotechnology,4,2022,17,90.68,97.55,6.01,7.04,0,0,paid,11,0
+S0144,Gayathri Ravel,Mechanical Engineering,4,2020,22,81.47,80.91,6.98,7.17,1,1,paid,3,0
+S0145,Unni Datta,Information Technology,1,2023,21,45.58,29.96,7.94,7.78,0,0,overdue,11,0
+S0146,Meera Bala,Information Technology,2,2022,17,89.67,100.0,7.2,6.96,0,0,overdue,2,0
+S0147,Krishna Shenoy,Mathematics and Computing,2,2024,18,79.1,87.96,6.96,7.04,0,0,paid,4,0
+S0148,Abha Raghavan,Mechanical Engineering,4,2023,19,94.76,100.0,7.07,6.96,0,0,paid,5,0
+S0149,Suhani Narain,Information Technology,2,2024,19,75.59,89.02,8.19,7.71,1,1,paid,8,0
+S0150,Arunima Sama,Electronics and Communication Engineering,2,2020,19,90.92,96.23,6.5,6.49,0,0,paid,5,0
+S0151,Upma Bahl,Chemical Engineering,4,2020,22,94.0,100.0,8.32,7.75,0,0,paid,10,0
+S0152,Inaya Kapur,Electrical Engineering,3,2020,22,88.85,98.74,7.22,7.4,0,0,paid,8,0
+S0153,Banjeet Balasubramanian,Information Technology,2,2023,18,75.55,72.69,7.28,7.26,0,0,overdue,3,0
+S0154,Anmol Dua,Mathematics and Computing,2,2025,18,45.63,47.12,6.18,6.48,0,0,paid,10,0
+S0155,Urvashi Contractor,Electronics and Communication Engineering,3,2025,21,69.64,68.17,8.48,7.54,0,0,paid,10,0
+S0156,Udyati Kunda,Mechanical Engineering,3,2021,23,89.81,98.91,5.55,5.82,0,0,paid,8,0
+S0157,Oliver Contractor,Chemical Engineering,3,2022,23,59.91,39.94,6.44,6.39,0,0,paid,10,0
+S0158,Deepa Chokshi,Mathematics and Computing,1,2020,21,76.12,75.67,7.42,7.48,0,0,paid,5,0
+S0159,Devika Prashad,Mechanical Engineering,1,2024,20,63.24,55.86,3.91,4.0,0,0,overdue,8,1
+S0160,Faqid Kibe,Mathematics and Computing,1,2024,17,96.15,100.0,5.39,5.22,0,0,paid,8,0
+S0161,Jai Barman,Mathematics and Computing,1,2022,19,97.36,98.49,6.49,6.58,0,0,paid,12,0
+S0162,Kamala Biswas,Biotechnology,3,2024,21,69.49,58.83,6.52,6.81,0,0,paid,5,0
+S0163,Advik Salvi,Biotechnology,1,2025,23,78.63,90.08,5.34,5.42,0,0,paid,7,0
+S0164,Hitesh Sant,Information Technology,2,2022,19,61.47,44.51,5.99,6.23,1,1,paid,3,0
+S0165,Michael Saran,Chemical Engineering,1,2022,18,68.75,69.52,5.82,5.83,0,0,paid,5,0
+S0166,Veda Shroff,Information Technology,4,2022,20,81.54,83.84,5.72,5.92,0,0,overdue,8,0
+S0167,Ekantika Korpal,Production and Industrial Engineering,4,2020,23,48.14,24.81,7.22,7.01,0,0,paid,7,0
+S0168,Arya Seshadri,Mathematics and Computing,4,2022,18,77.58,64.52,7.63,7.44,0,0,overdue,6,0
+S0169,Ladli Nayar,Mechanical Engineering,2,2021,17,97.76,100.0,5.81,6.14,0,0,paid,0,0
+S0170,Ekta Gopal,Biotechnology,1,2025,20,74.76,79.93,3.62,3.43,1,1,overdue,13,1
+S0171,Isha Kuruvilla,Electronics and Communication Engineering,3,2025,19,78.26,73.32,6.32,6.56,0,0,paid,12,0
+S0172,Anya Anne,Electrical Engineering,1,2020,21,78.35,79.6,7.9,7.9,0,0,paid,8,0
+S0173,Frederick Khurana,Biotechnology,3,2021,22,81.65,85.52,8.0,7.5,1,1,paid,5,0
+S0174,Vrinda Khosla,Biotechnology,2,2023,22,88.51,96.93,5.96,6.03,0,0,paid,10,0
+S0175,Vritti Sem,Mathematics and Computing,2,2021,23,75.3,91.66,5.52,5.91,0,0,paid,9,0
+S0176,Girik Menon,Civil Engineering,3,2023,18,49.94,23.71,6.79,6.89,1,1,paid,5,0
+S0177,Yagnesh Mohan,Mathematics and Computing,4,2022,22,73.6,69.54,7.49,8.06,0,0,paid,7,0
+S0178,Urvashi Wali,Civil Engineering,3,2023,19,75.29,78.41,7.14,6.89,0,0,paid,11,0
+S0179,Ganga Pandey,Civil Engineering,2,2023,22,87.05,100.0,8.74,8.65,0,0,paid,6,0
+S0180,Anika Mohan,Electrical Engineering,4,2023,19,57.52,46.16,4.14,3.87,0,0,paid,8,1
+S0181,Jai Hans,Chemical Engineering,2,2023,19,55.78,39.06,8.67,8.44,0,0,paid,4,0
+S0182,Qasim Handa,Mathematics and Computing,3,2024,18,95.81,100.0,7.9,7.36,1,1,overdue,2,0
+S0183,Aradhana Vohra,Information Technology,4,2023,21,76.66,91.86,2.82,3.64,0,1,overdue,5,1
+S0184,Harish Hari,Information Technology,4,2021,19,46.61,21.89,5.37,6.06,0,0,paid,9,0
+S0185,Jalsa Gola,Chemical Engineering,1,2024,19,81.19,78.68,6.62,6.79,0,0,overdue,11,0
+S0186,Jonathan Mahal,Chemical Engineering,3,2024,17,40.52,18.89,8.61,7.62,1,1,overdue,6,0
+S0187,Brinda Date,Production and Industrial Engineering,1,2023,22,65.59,57.55,7.82,8.02,0,0,paid,8,0
+S0188,Harshil Arora,Mechanical Engineering,2,2025,21,60.52,44.77,5.44,5.48,0,0,paid,5,0
+S0189,Upasna Srinivas,Information Technology,4,2020,20,73.02,81.7,9.3,8.26,1,1,paid,2,0
+S0190,Qarin Behl,Computer Science Engineering,3,2020,19,66.46,60.78,6.0,6.65,0,0,paid,3,0
+S0191,Ishaan Bhattacharyya,Chemical Engineering,2,2022,20,66.6,56.51,6.46,6.1,1,1,paid,1,0
+S0192,Ethan Bera,Electronics and Communication Engineering,2,2025,18,63.96,66.07,7.64,7.12,1,1,paid,10,0
+S0193,Daksha Chada,Mathematics and Computing,2,2023,18,87.38,100.0,5.68,6.06,0,0,paid,12,0
+S0194,Omaja Kara,Biotechnology,3,2021,23,56.46,37.52,6.82,6.66,1,1,paid,10,0
+S0195,Shravya Savant,Mechanical Engineering,2,2023,19,92.81,100.0,3.81,4.01,1,1,overdue,6,1
+S0196,Dalaja Bhasin,Chemical Engineering,3,2022,21,90.16,97.93,7.68,7.58,0,0,paid,8,0
+S0197,Sarthak Kakar,Biotechnology,1,2023,19,72.17,75.48,6.27,6.48,0,0,paid,2,0
+S0198,Naksh Khatri,Mechanical Engineering,3,2024,18,71.16,61.95,3.36,3.86,0,0,paid,6,1
+S0199,Naksh Agate,Mathematics and Computing,1,2020,20,87.9,99.94,5.76,5.68,1,1,paid,7,0
+S0200,Upma Manne,Electrical Engineering,3,2022,17,95.78,100.0,6.69,6.75,0,0,paid,13,0
+S0201,Bhavya Mandal,Electronics and Communication Engineering,1,2022,22,89.97,98.58,7.29,7.34,1,1,paid,3,0
+S0202,Ekavir Kaur,Biotechnology,1,2022,19,65.99,66.78,7.03,6.78,2,2,paid,6,0
+S0203,Pavani Contractor,Mechanical Engineering,3,2020,21,63.84,60.65,5.91,6.32,0,0,paid,16,0
+S0204,Manthan Lata,Production and Industrial Engineering,3,2021,23,77.29,86.19,6.66,6.76,0,0,overdue,5,0
+S0205,Ekbal Bhasin,Mechanical Engineering,4,2021,18,70.51,71.97,10.0,8.97,1,1,paid,7,0
+S0206,Bhavya Sarna,Information Technology,4,2022,17,90.76,94.57,6.88,6.43,0,0,paid,9,0
+S0207,Daksha Rau,Chemical Engineering,3,2021,19,62.81,51.76,4.43,4.28,0,1,paid,2,1
+S0208,Raksha Buch,Biotechnology,3,2020,21,91.71,99.12,7.04,7.3,0,0,paid,0,0
+S0209,Rachana Naidu,Chemical Engineering,3,2024,21,49.48,38.3,5.27,5.29,1,1,paid,8,0
+S0210,Atharv Chand,Mathematics and Computing,3,2020,18,85.65,92.43,6.93,6.71,0,0,paid,3,0
+S0211,Amruta Baria,Biotechnology,3,2020,23,54.29,46.84,7.73,7.37,1,1,paid,7,0
+S0212,Upma Venkataraman,Computer Science Engineering,3,2020,22,86.11,100.0,4.86,5.78,0,1,paid,8,0
+S0213,Arunima Golla,Electronics and Communication Engineering,4,2024,21,80.71,85.25,3.88,5.11,0,0,paid,6,0
+S0214,Vyanjana Chand,Chemical Engineering,2,2024,20,56.07,45.79,8.05,8.3,1,1,paid,5,0
+S0215,Nilima Nath,Mathematics and Computing,4,2023,19,54.72,31.91,7.26,6.99,0,0,paid,13,0
+S0216,Naveen Narayan,Civil Engineering,2,2025,20,69.21,55.63,6.85,6.82,0,0,overdue,10,0
+S0217,Bhavya Rattan,Information Technology,3,2022,23,49.75,19.38,5.35,5.82,1,1,overdue,0,0
+S0218,Suhani Chakrabarti,Computer Science Engineering,4,2022,19,57.14,59.52,8.32,7.74,0,0,overdue,3,0
+S0219,Ekiya D’Alia,Information Technology,2,2023,23,46.99,37.33,7.51,7.83,0,0,paid,7,0
+S0220,Yoshita Agarwal,Computer Science Engineering,3,2020,22,91.12,100.0,8.46,7.42,2,2,paid,4,0
+S0221,Odika Bhagat,Electrical Engineering,1,2024,18,55.67,45.01,6.46,6.4,0,0,paid,10,0
+S0222,Wishi Sathe,Electrical Engineering,2,2024,23,62.67,56.74,6.17,6.02,0,0,paid,9,0
+S0223,Samar Loke,Computer Science Engineering,3,2024,21,59.4,53.87,5.63,6.02,1,1,paid,6,0
+S0224,Bhavna Sarma,Production and Industrial Engineering,3,2021,22,82.36,80.42,6.93,7.0,1,1,paid,10,0
+S0225,Jairaj Balakrishnan,Electronics and Communication Engineering,1,2020,22,81.17,84.56,6.89,6.99,0,0,overdue,2,0
+S0226,Nathan Mukhopadhyay,Civil Engineering,1,2024,21,97.23,99.81,8.37,8.26,1,1,paid,10,0
+S0227,Nikita Chander,Chemical Engineering,1,2025,18,62.25,52.64,4.97,5.14,1,1,overdue,9,0
+S0228,Triya Dalal,Mathematics and Computing,1,2024,22,71.7,81.02,6.51,6.36,0,0,paid,0,0
+S0229,Wishi Manne,Computer Science Engineering,3,2024,21,96.45,100.0,5.16,5.61,0,0,overdue,7,0
+S0230,Ojasvi Subramanian,Biotechnology,4,2020,20,74.07,75.09,8.49,7.68,1,1,paid,8,0
+S0231,Tanmayi Dhillon,Biotechnology,1,2025,20,58.48,49.85,6.24,6.3,0,0,paid,3,0
+S0232,Yashoda Deshpande,Information Technology,2,2021,23,94.43,94.8,7.69,7.24,1,1,paid,11,0
+S0233,Anya Sachdeva,Civil Engineering,4,2024,19,97.54,100.0,5.93,6.1,1,1,paid,5,0
+S0234,Aarnav Mandal,Production and Industrial Engineering,4,2023,22,53.67,41.47,5.48,4.99,0,0,paid,10,1
+S0235,Vrishti Dixit,Production and Industrial Engineering,2,2025,20,64.8,58.94,8.2,7.95,0,0,overdue,7,0
+S0236,Hemani Natarajan,Civil Engineering,4,2023,21,55.48,38.94,8.78,7.89,0,0,paid,8,0
+S0237,Tamanna Nagy,Chemical Engineering,3,2022,23,91.14,96.16,5.61,5.87,0,0,paid,4,0
+S0238,William Rajagopal,Biotechnology,1,2021,18,87.0,91.74,4.45,4.44,0,1,paid,7,1
+S0239,Caleb Nadkarni,Civil Engineering,2,2025,22,89.23,90.44,6.82,6.93,0,0,paid,4,0
+S0240,Lakshmi Raju,Production and Industrial Engineering,3,2024,22,50.6,59.84,8.55,8.3,0,0,paid,9,0
+S0241,Warhi Bansal,Chemical Engineering,1,2025,18,77.49,92.03,7.22,6.84,0,0,paid,10,0
+S0242,Harish Sarraf,Information Technology,2,2022,17,71.77,70.59,6.09,6.54,0,0,paid,8,0
+S0243,Alexander Dhawan,Civil Engineering,3,2020,20,68.9,73.08,5.33,5.91,0,0,paid,15,0
+S0244,Falan Singh,Chemical Engineering,1,2021,23,90.45,99.83,7.14,7.15,0,0,paid,13,0
+S0245,Hamsini Rao,Mechanical Engineering,1,2025,22,87.19,99.99,7.85,7.84,0,0,paid,3,0
+S0246,Falguni Walla,Civil Engineering,3,2022,20,61.83,52.1,4.04,3.98,0,0,paid,4,1
+S0247,Vinaya Banik,Information Technology,2,2023,21,73.08,61.66,6.74,7.07,0,0,overdue,8,0
+S0248,Wahab Mani,Production and Industrial Engineering,2,2020,18,96.41,100.0,6.42,6.56,1,1,paid,14,0
+S0249,Radha Chaudhari,Civil Engineering,3,2021,23,98.4,100.0,7.64,7.97,1,1,overdue,7,0
+S0250,Sachi Ganesan,Mathematics and Computing,1,2024,22,77.07,78.11,8.24,8.21,1,1,paid,2,0
+S0251,Ayush Batra,Computer Science Engineering,1,2024,19,56.44,41.86,6.47,6.22,0,0,paid,8,0
+S0252,Chaaya Parmer,Mathematics and Computing,4,2023,19,67.05,50.86,5.8,6.14,0,0,paid,7,0
+S0253,Madhav Konda,Information Technology,3,2024,21,85.39,87.27,5.78,5.8,0,0,paid,6,0
+S0254,Pranit Garde,Mathematics and Computing,4,2025,18,79.39,89.57,6.56,5.92,0,0,paid,7,0
+S0255,Lavanya Khosla,Chemical Engineering,1,2021,20,81.57,88.48,4.7,4.75,0,1,paid,4,1
+S0256,Vincent Shenoy,Mechanical Engineering,3,2021,22,81.74,87.11,5.94,6.57,0,0,paid,16,0
+S0257,Tripti Kumer,Chemical Engineering,2,2025,22,96.79,100.0,6.3,6.34,1,1,paid,9,0
+S0258,Udyati Mani,Production and Industrial Engineering,3,2021,22,68.76,63.98,5.26,4.74,1,1,overdue,7,1
+S0259,Ethan Sathe,Chemical Engineering,1,2020,19,90.1,100.0,7.97,7.96,0,0,paid,2,0
+S0260,Panini Krishna,Mathematics and Computing,4,2022,20,94.06,100.0,7.88,7.65,1,1,paid,8,0
+S0261,Rushil Rajagopalan,Mechanical Engineering,1,2023,23,92.75,100.0,4.61,4.8,0,0,paid,9,1
+S0262,Hredhaan Khalsa,Biotechnology,3,2024,20,92.97,100.0,4.98,4.77,0,0,paid,4,1
+S0263,Chakrika Merchant,Chemical Engineering,1,2024,17,63.02,66.44,7.01,7.02,0,0,paid,18,0
+S0264,Anvi Anand,Electrical Engineering,3,2022,21,61.89,53.29,7.98,7.37,0,0,paid,10,0
+S0265,Watika Mangat,Information Technology,2,2025,23,95.18,94.91,6.02,5.97,0,0,paid,6,0
+S0266,Indira Kanda,Electronics and Communication Engineering,2,2025,22,80.05,83.82,10.0,9.69,0,0,paid,5,0
+S0267,Zashil Devan,Mathematics and Computing,2,2021,22,89.1,94.17,6.23,6.51,0,0,paid,5,0
+S0268,Balveer More,Biotechnology,4,2021,23,45.32,17.28,5.22,5.87,0,0,overdue,10,0
+S0269,Bahadurjit Patla,Mathematics and Computing,3,2023,22,37.44,20.21,8.33,8.57,0,0,paid,10,0
+S0270,Gautam Merchant,Biotechnology,1,2021,19,76.86,80.32,7.11,6.96,2,2,paid,1,0
+S0271,Parth Iyer,Mathematics and Computing,1,2022,18,91.76,100.0,7.39,7.94,0,0,paid,16,0
+S0272,Yachana Mahajan,Biotechnology,1,2023,23,72.16,83.54,4.44,4.33,0,0,paid,12,1
+S0273,Aarini Subramaniam,Mathematics and Computing,4,2020,23,70.83,76.15,8.28,7.7,2,2,paid,7,0
+S0274,Hamsini Contractor,Computer Science Engineering,4,2025,20,88.32,96.6,8.01,8.22,0,0,paid,5,0
+S0275,Lohit Kara,Civil Engineering,4,2021,23,75.36,77.09,6.29,6.46,0,0,overdue,8,0
+S0276,Jasmit Chana,Information Technology,3,2023,23,85.42,88.95,6.42,6.82,0,0,paid,7,0
+S0277,Akshay Lalla,Electronics and Communication Engineering,1,2025,21,68.39,77.66,8.01,7.61,0,0,paid,12,0
+S0278,Suhani Pillay,Production and Industrial Engineering,2,2023,22,55.99,40.5,5.74,5.88,0,0,overdue,12,0
+S0279,Lakshmi Prabhu,Chemical Engineering,3,2023,17,88.78,94.89,7.7,7.14,1,1,paid,6,0
+S0280,Urishilla Bakshi,Civil Engineering,1,2025,21,88.24,92.92,6.18,5.91,2,2,paid,5,0
+S0281,Timothy Bhatnagar,Mechanical Engineering,3,2023,22,74.85,72.49,6.52,6.71,0,0,paid,4,0
+S0282,Chasmum Rege,Electronics and Communication Engineering,3,2024,17,92.45,93.42,4.67,4.81,1,1,overdue,14,1
+S0283,Chakradev Barad,Chemical Engineering,2,2022,19,68.62,49.2,6.76,6.81,1,1,overdue,9,0
+S0284,Jack Chatterjee,Production and Industrial Engineering,4,2022,18,43.3,29.34,7.7,7.5,0,0,paid,2,0
+S0285,Lipika Setty,Production and Industrial Engineering,1,2021,19,82.89,87.72,6.42,6.24,0,0,paid,12,0
+S0286,Mohammed Sachdeva,Computer Science Engineering,3,2022,22,50.04,28.19,5.27,5.79,0,0,overdue,8,0
+S0287,Vrishti Reddy,Biotechnology,2,2022,19,62.73,50.27,7.28,7.16,0,0,paid,9,0
+S0288,Kamala Kalla,Mechanical Engineering,1,2020,20,90.82,100.0,7.06,6.95,1,1,paid,1,0
+S0289,Warinder Patil,Production and Industrial Engineering,1,2025,17,95.72,100.0,8.05,8.15,0,0,overdue,7,0
+S0290,Jagrati Bhat,Electronics and Communication Engineering,4,2024,20,81.93,88.12,6.95,6.88,0,0,paid,8,0
+S0291,Ranveer Das,Mathematics and Computing,2,2025,23,68.47,62.52,6.69,6.94,2,2,paid,8,0
+S0292,Gavin Kala,Electrical Engineering,4,2022,22,84.5,97.96,6.33,6.56,0,0,overdue,10,0
+S0293,Chandresh Nath,Electrical Engineering,2,2023,18,90.83,93.33,8.33,8.34,0,0,overdue,8,0
+S0294,Samesh Biswas,Electrical Engineering,3,2023,23,93.8,99.66,6.83,6.6,0,0,paid,6,0
+S0295,Tarak Kaul,Biotechnology,3,2023,19,97.98,100.0,6.71,6.73,0,0,paid,0,0
+S0296,Aarnav Malhotra,Electronics and Communication Engineering,2,2023,23,83.9,90.11,7.71,7.8,1,1,paid,6,0
+S0297,Kalpit Zachariah,Computer Science Engineering,4,2022,19,89.36,96.19,8.49,8.26,0,0,paid,13,0
+S0298,Imaran Bal,Production and Industrial Engineering,1,2020,18,46.77,38.23,7.74,7.98,0,0,overdue,0,0
+S0299,Ishita Khanna,Biotechnology,2,2022,21,61.2,49.61,6.76,6.5,2,2,paid,15,0
+S0300,Amol Ghosh,Biotechnology,3,2021,19,79.23,95.18,7.89,7.89,0,0,paid,8,0
+S0301,Jonathan Sama,Production and Industrial Engineering,3,2023,21,75.76,79.61,7.49,7.31,0,0,overdue,6,0
+S0302,Devansh Soni,Electrical Engineering,1,2022,20,77.06,76.95,6.57,6.6,0,0,paid,15,0
+S0303,Yochana Chopra,Civil Engineering,2,2025,20,55.53,43.49,6.47,6.88,1,1,paid,4,0
+S0304,Caleb Verma,Electronics and Communication Engineering,4,2023,19,43.79,30.75,6.92,7.0,0,0,paid,9,0
+S0305,Azaan Bhat,Computer Science Engineering,3,2020,20,62.74,41.57,6.58,6.65,0,0,paid,11,0
+S0306,Pooja Chokshi,Mathematics and Computing,4,2025,20,96.05,100.0,7.16,7.32,0,0,paid,9,0
+S0307,Ethan Buch,Information Technology,1,2022,19,69.8,78.08,6.2,6.38,0,0,paid,7,0
+S0308,Dominic Date,Biotechnology,1,2024,19,94.9,100.0,8.24,8.22,0,0,overdue,3,0
+S0309,Lakshmi Wali,Production and Industrial Engineering,1,2024,19,63.52,65.35,8.0,7.56,0,0,paid,1,0
+S0310,Yashasvi Sani,Electronics and Communication Engineering,3,2025,17,94.87,100.0,5.34,6.09,2,2,paid,2,0
+S0311,Tanveer Sani,Mathematics and Computing,4,2021,20,95.67,99.46,4.22,5.37,0,0,paid,11,0
+S0312,Odika Nori,Information Technology,1,2022,23,75.43,69.46,8.25,8.36,0,0,paid,3,0
+S0313,Mohini Sagar,Chemical Engineering,3,2025,22,56.69,53.34,7.75,8.01,0,0,paid,10,0
+S0314,Dhriti Sane,Civil Engineering,2,2020,19,61.64,58.44,7.97,8.52,0,0,paid,7,0
+S0315,Kavya Dua,Civil Engineering,2,2024,22,81.55,84.58,3.71,4.32,0,0,overdue,1,1
+S0316,Ekalinga Chand,Biotechnology,4,2021,23,77.32,72.27,5.58,6.18,0,0,overdue,12,0
+S0317,Girik Sankaran,Biotechnology,1,2020,17,82.08,99.68,7.26,7.36,0,0,paid,6,0
+S0318,Kalpit Bhasin,Computer Science Engineering,3,2021,21,95.47,100.0,7.04,7.36,0,0,paid,4,0
+S0319,Jason Roy,Biotechnology,3,2024,19,91.14,92.94,4.54,4.02,0,0,paid,4,1
+S0320,Charan Mani,Civil Engineering,3,2020,21,76.05,84.88,8.25,7.61,0,0,paid,11,0
+S0321,Indira Chawla,Biotechnology,4,2023,21,68.9,65.2,5.26,5.82,1,1,paid,5,0
+S0322,Mohammed Subramaniam,Biotechnology,3,2025,18,64.82,62.89,7.79,7.36,0,0,paid,11,0
+S0323,Inaya Pillai,Chemical Engineering,1,2020,17,75.97,75.4,6.42,6.34,0,0,overdue,8,0
+S0324,Upkaar Sanghvi,Production and Industrial Engineering,3,2021,23,89.16,97.05,8.62,8.47,0,0,paid,3,0
+S0325,Amara Balakrishnan,Mechanical Engineering,3,2025,18,58.23,53.93,7.22,6.69,0,0,paid,9,0
+S0326,Dayamai Nori,Biotechnology,3,2021,19,47.54,49.72,6.49,6.61,1,1,paid,5,0
+S0327,Pratyush Dhar,Mathematics and Computing,4,2022,21,58.42,57.43,8.19,7.94,0,0,overdue,13,0
+S0328,Ekaraj Dhar,Information Technology,4,2020,22,97.87,100.0,9.43,8.7,0,0,overdue,0,0
+S0329,Gavin Wali,Electronics and Communication Engineering,1,2025,18,84.21,80.66,6.83,6.74,0,0,paid,6,0
+S0330,Oni Setty,Computer Science Engineering,2,2023,19,68.83,66.12,3.71,3.81,0,0,paid,12,1
+S0331,Kala Muni,Mathematics and Computing,1,2023,22,81.21,70.56,7.05,7.11,1,1,paid,4,0
+S0332,Frado Ben,Civil Engineering,4,2022,18,89.9,100.0,7.09,6.69,0,0,paid,3,0
+S0333,Chandran Bumb,Civil Engineering,4,2024,19,65.68,55.89,6.42,6.56,0,0,paid,6,0
+S0334,Panini Sunder,Computer Science Engineering,2,2020,21,86.43,85.54,7.29,7.22,0,0,paid,10,0
+S0335,Oeshi Mahajan,Information Technology,3,2024,18,50.43,46.47,4.9,5.09,0,0,paid,4,1
+S0336,Hemani Sani,Mechanical Engineering,4,2024,17,96.78,100.0,5.57,5.78,0,0,paid,8,0
+S0337,Vidhi Vyas,Biotechnology,2,2020,22,96.04,100.0,6.28,6.73,0,0,paid,1,0
+S0338,Chakradev Kannan,Civil Engineering,3,2020,20,76.4,89.56,7.17,6.87,2,2,paid,2,0
+S0339,Abhimanyu Jayaraman,Mechanical Engineering,2,2022,19,72.13,73.85,6.88,6.9,0,0,overdue,9,0
+S0340,Laksh Kumer,Electronics and Communication Engineering,3,2025,19,92.19,100.0,7.89,7.66,0,0,paid,15,0
+S0341,Jagdish Amble,Electronics and Communication Engineering,2,2021,20,78.18,85.63,8.05,8.28,0,0,paid,10,0
+S0342,Parth Dayal,Mathematics and Computing,3,2024,20,82.71,98.31,7.18,6.93,1,1,overdue,5,0
+S0343,Xiti Pandya,Mathematics and Computing,1,2021,17,84.6,83.28,4.3,4.34,0,1,paid,5,1
+S0344,Brijesh Sarin,Production and Industrial Engineering,4,2023,17,91.61,96.08,4.95,5.59,0,0,paid,9,0
+S0345,Faras Munshi,Information Technology,4,2022,21,54.57,53.56,9.66,8.89,0,0,paid,2,0
+S0346,Nidhi Sahni,Production and Industrial Engineering,2,2021,19,80.21,89.3,5.77,5.97,0,0,paid,5,0
+S0347,Nidhi Bail,Computer Science Engineering,1,2024,19,78.28,81.31,6.25,6.28,2,2,paid,6,0
+S0348,Triveni Pathak,Civil Engineering,2,2021,17,71.91,66.27,7.75,7.32,1,1,overdue,10,0
+S0349,Hitesh Kohli,Information Technology,3,2022,20,82.97,90.71,5.31,5.78,0,0,overdue,4,0
+S0350,Farhan Randhawa,Electronics and Communication Engineering,3,2022,23,69.21,59.85,6.66,6.7,0,0,paid,6,0
+S0351,Harinakshi Kant,Electronics and Communication Engineering,2,2025,19,89.56,99.75,7.18,7.17,1,1,paid,12,0
+S0352,Faraj Uppal,Civil Engineering,1,2024,22,77.37,70.29,7.29,7.41,0,0,paid,7,0
+S0353,Yashvi Hari,Mathematics and Computing,3,2020,23,63.22,56.92,7.49,7.72,1,1,overdue,11,0
+S0354,Indali Divan,Mathematics and Computing,1,2023,18,85.34,87.13,7.87,7.72,1,1,paid,16,0
+S0355,Madhav Kunda,Mechanical Engineering,4,2022,18,64.93,45.0,6.53,6.17,0,0,overdue,7,0
+S0356,Michael Borra,Mechanical Engineering,4,2023,18,82.57,78.74,4.79,4.64,0,1,paid,12,1
+S0357,Ucchal Sen,Biotechnology,2,2023,22,81.38,92.62,6.98,6.67,0,0,paid,8,0
+S0358,Diya Dora,Civil Engineering,3,2025,20,44.61,20.73,4.85,5.65,0,1,paid,11,1
+S0359,Upasna Sathe,Information Technology,3,2024,22,70.11,69.89,7.9,7.85,0,0,paid,6,0
+S0360,Anvi Bhalla,Electrical Engineering,2,2023,19,92.27,100.0,4.59,4.64,1,2,paid,13,1
+S0361,Dayita Shenoy,Chemical Engineering,2,2024,20,48.07,25.28,7.93,7.68,0,0,overdue,16,0
+S0362,Dakshesh Pillay,Mathematics and Computing,3,2022,23,66.43,62.4,4.49,4.77,0,1,overdue,3,1
+S0363,Faraj Chana,Biotechnology,3,2023,21,65.47,59.55,7.46,7.22,0,0,paid,7,0
+S0364,Turvi Barman,Production and Industrial Engineering,4,2023,20,64.71,57.45,6.89,6.95,0,0,paid,6,0
+S0365,Ekanta Soni,Computer Science Engineering,1,2022,21,80.46,78.94,7.7,7.66,0,0,paid,7,0
+S0366,David Seshadri,Biotechnology,3,2025,17,58.67,52.82,5.81,6.16,0,0,overdue,9,0
+S0367,Frado Thaman,Electronics and Communication Engineering,3,2023,22,39.08,21.78,6.22,6.26,0,0,overdue,6,0
+S0368,Balveer Kota,Computer Science Engineering,4,2022,22,71.29,64.59,4.2,4.72,1,1,paid,6,1
+S0369,Reva Viswanathan,Information Technology,4,2022,21,95.62,99.62,6.38,6.45,0,0,overdue,10,0
+S0370,Januja Pradhan,Mathematics and Computing,1,2022,19,99.66,100.0,7.32,7.22,0,0,paid,10,0
+S0371,Nilima Nigam,Civil Engineering,3,2022,22,86.22,87.67,6.07,6.22,1,1,paid,1,0
+S0372,Gaurika Bhatti,Chemical Engineering,1,2024,19,90.57,85.51,4.87,5.04,0,1,paid,4,0
+S0373,Libni Mander,Production and Industrial Engineering,4,2023,19,67.65,70.39,6.76,6.85,0,0,overdue,13,0
+S0374,Gauri Bumb,Civil Engineering,3,2021,21,90.93,96.82,5.71,6.01,1,1,overdue,0,0
+S0375,Inaya Mukherjee,Mechanical Engineering,3,2025,22,89.42,100.0,8.48,8.0,0,0,paid,2,0
+S0376,Kai Chad,Mathematics and Computing,3,2023,19,44.61,21.87,7.29,7.06,0,0,paid,7,0
+S0377,Falguni Datta,Information Technology,4,2022,22,95.82,100.0,7.83,7.64,0,0,overdue,10,0
+S0378,Pallavi Trivedi,Computer Science Engineering,4,2025,19,62.59,66.24,9.59,9.15,2,2,paid,12,0
+S0379,Janani More,Mathematics and Computing,2,2024,18,49.58,34.41,7.12,7.48,0,0,paid,13,0
+S0380,Harita Sunder,Production and Industrial Engineering,4,2021,18,64.95,67.41,6.24,6.72,0,0,paid,2,0
+S0381,Laksh Dubey,Mathematics and Computing,1,2020,17,84.81,91.75,7.15,7.22,0,0,paid,12,0
+S0382,Harrison Tripathi,Electronics and Communication Engineering,4,2023,23,94.64,100.0,6.63,6.53,0,0,paid,11,0
+S0383,Gayathri Deep,Biotechnology,1,2024,21,47.74,34.35,6.83,6.92,0,0,paid,12,0
+S0384,Mitesh Gaba,Civil Engineering,4,2024,18,91.7,100.0,7.07,6.88,1,1,paid,18,0
+S0385,Raksha Bassi,Biotechnology,3,2021,20,73.72,65.14,7.01,6.85,1,1,paid,9,0
+S0386,Wazir Sawhney,Mechanical Engineering,4,2025,21,88.18,95.16,9.37,8.42,0,0,paid,1,0
+S0387,Saumya Kaur,Mechanical Engineering,2,2024,21,87.45,100.0,7.95,7.39,1,1,overdue,6,0
+S0388,Dayamai Singh,Electrical Engineering,4,2022,23,85.35,87.12,6.32,6.63,0,0,paid,11,0
+S0389,Jhalak Sastry,Mechanical Engineering,3,2025,20,42.04,16.67,5.14,5.79,0,0,paid,10,0
+S0390,Lavanya Thakkar,Chemical Engineering,3,2023,21,97.88,100.0,8.69,7.89,0,0,overdue,6,0
+S0391,Neel Iyengar,Computer Science Engineering,3,2022,23,83.92,99.81,6.43,6.33,0,0,paid,17,0
+S0392,Zashil Ben,Mechanical Engineering,4,2023,22,57.88,38.12,7.57,7.76,0,0,overdue,10,0
+S0393,Kamya Chauhan,Production and Industrial Engineering,3,2022,22,66.58,69.47,7.21,7.47,0,0,paid,6,0
+S0394,Bhavani Chacko,Electrical Engineering,2,2024,23,96.75,100.0,4.86,4.85,0,0,paid,11,1
+S0395,Anjali Sengupta,Computer Science Engineering,1,2021,21,48.06,32.57,7.66,7.62,1,1,paid,9,0
+S0396,Rajeshri Chand,Electronics and Communication Engineering,1,2020,18,90.53,91.27,6.51,6.64,1,1,overdue,4,0
+S0397,Ikshita Bala,Chemical Engineering,4,2021,20,47.95,26.18,5.92,6.35,0,0,paid,9,0
+S0398,Meghana Thakkar,Civil Engineering,3,2022,19,75.32,76.76,5.75,6.41,0,0,overdue,9,0
+S0399,Libni Bumb,Mathematics and Computing,2,2020,19,67.86,62.77,7.66,7.63,0,0,paid,8,0
+S0400,Ayaan Nagar,Electronics and Communication Engineering,4,2020,17,81.89,95.09,9.4,9.07,0,0,paid,13,0
+S0401,Madhav Devan,Chemical Engineering,4,2020,17,85.94,89.4,6.68,6.77,0,0,paid,3,0
+S0402,Urmi Dewan,Computer Science Engineering,1,2022,23,77.35,87.64,6.74,7.03,0,0,paid,13,0
+S0403,Saumya Ahluwalia,Mechanical Engineering,4,2022,17,50.29,46.07,6.85,6.92,0,0,paid,8,0
+S0404,Aahana Kale,Electronics and Communication Engineering,4,2023,23,86.04,100.0,7.41,6.82,0,0,overdue,7,0
+S0405,Pallavi Choudhry,Electronics and Communication Engineering,4,2022,23,73.13,75.11,7.35,7.57,0,0,paid,5,0
+S0406,Wazir Mitra,Civil Engineering,3,2020,17,96.5,100.0,7.43,6.47,0,0,overdue,11,0
+S0407,William Saini,Mathematics and Computing,4,2021,22,98.92,100.0,5.63,6.59,0,0,paid,10,0
+S0408,Dev Choudhry,Chemical Engineering,1,2020,23,88.73,96.99,5.9,5.84,0,0,paid,11,0
+S0409,Amol Varma,Electrical Engineering,1,2022,21,68.71,71.71,6.63,6.42,1,1,paid,3,0
+S0410,Maanas Manne,Civil Engineering,3,2022,20,94.88,100.0,6.04,6.37,0,0,paid,15,0
+S0411,Ira Khosla,Civil Engineering,2,2022,21,42.92,29.67,4.39,4.51,0,1,paid,11,1
+S0412,Rachit Chada,Production and Industrial Engineering,3,2023,21,71.77,59.05,6.68,6.39,1,1,paid,1,0
+S0413,Ekansh Vora,Civil Engineering,2,2022,21,96.12,100.0,7.35,7.12,0,0,paid,8,0
+S0414,Madhavi Singhal,Biotechnology,3,2021,17,67.63,56.12,7.15,7.71,1,1,paid,11,0
+S0415,Kashvi Kulkarni,Production and Industrial Engineering,2,2023,22,94.08,98.78,6.81,6.86,1,1,paid,1,0
+S0416,Ishanvi Bir,Information Technology,4,2024,19,63.42,66.05,9.11,8.35,0,0,paid,11,0
+S0417,Hemang Natarajan,Information Technology,1,2024,18,73.24,74.41,8.26,8.25,0,0,overdue,17,0
+S0418,Indira Nigam,Mathematics and Computing,2,2021,23,66.99,53.64,8.6,8.49,0,0,overdue,10,0
+S0419,Ucchal Srinivas,Information Technology,2,2023,22,95.57,100.0,8.6,7.8,0,0,paid,9,0
+S0420,Krishna Bhatnagar,Biotechnology,1,2024,22,65.67,78.18,7.79,7.71,0,0,paid,9,0
+S0421,Balhaar Memon,Mathematics and Computing,1,2023,18,61.6,41.28,7.54,7.6,0,0,paid,5,0
+S0422,Ryan Barman,Computer Science Engineering,4,2022,19,80.59,86.48,7.71,7.97,1,1,paid,8,0
+S0423,Yutika Rao,Mathematics and Computing,1,2021,23,56.65,37.42,5.47,5.1,0,0,paid,7,0
+S0424,Zehaan Bansal,Production and Industrial Engineering,1,2020,23,69.12,59.9,7.54,7.42,0,0,paid,9,0
+S0425,Bhavika Parikh,Computer Science Engineering,3,2023,23,72.98,75.42,9.27,8.89,0,0,overdue,11,0
+S0426,Garima Mahajan,Chemical Engineering,3,2025,17,71.38,71.24,5.78,5.97,0,0,paid,9,0
+S0427,Rajeshri Ratta,Chemical Engineering,1,2023,22,95.51,100.0,7.44,7.47,0,0,paid,10,0
+S0428,Libni Nori,Electronics and Communication Engineering,3,2024,18,73.65,63.9,8.36,8.09,0,0,overdue,4,0
+S0429,Widisha Pillai,Production and Industrial Engineering,2,2023,23,74.45,67.73,6.79,6.62,2,2,paid,10,0
+S0430,Fitan Samra,Computer Science Engineering,3,2020,17,77.53,77.01,8.53,8.16,1,1,paid,15,0
+S0431,Pranit Memon,Production and Industrial Engineering,4,2023,19,63.37,48.54,7.48,7.38,1,1,paid,8,0
+S0432,Fariq Narang,Electronics and Communication Engineering,3,2022,22,87.08,97.49,7.12,6.84,0,0,overdue,13,0
+S0433,Damini Sehgal,Computer Science Engineering,4,2020,21,59.2,42.62,7.69,7.2,2,2,overdue,5,0
+S0434,Ojas Sawhney,Electrical Engineering,2,2020,19,49.78,43.01,5.29,5.18,0,0,paid,19,0
+S0435,Brijesh Pandit,Mathematics and Computing,1,2023,21,90.67,100.0,7.46,7.46,1,1,paid,8,0
+S0436,Anvi Bhandari,Electrical Engineering,2,2023,17,51.88,35.18,6.31,6.48,0,0,overdue,8,0
+S0437,Januja Varghese,Production and Industrial Engineering,3,2021,23,52.09,38.75,6.91,6.67,0,0,overdue,17,0
+S0438,Azaan Dhar,Civil Engineering,3,2024,23,73.34,68.69,7.59,7.41,1,1,overdue,4,0
+S0439,Bakhshi Date,Production and Industrial Engineering,2,2025,17,65.06,70.75,7.13,7.33,0,0,paid,11,0
+S0440,Jeevika Pathak,Mathematics and Computing,2,2024,20,63.3,47.79,6.2,6.51,0,0,paid,9,0
+S0441,Mitesh Sengupta,Computer Science Engineering,3,2023,19,66.18,66.39,7.36,6.77,0,0,paid,9,0
+S0442,Sachi Bose,Civil Engineering,4,2024,21,76.36,73.99,10.0,8.52,0,0,paid,8,0
+S0443,Jeevika Rao,Production and Industrial Engineering,4,2021,19,84.17,80.54,7.2,7.25,1,1,paid,4,0
+S0444,Zaid Comar,Electronics and Communication Engineering,4,2025,17,92.17,100.0,7.41,7.16,0,0,paid,4,0
+S0445,Xalak Vasa,Production and Industrial Engineering,2,2023,20,68.56,64.07,7.15,6.85,1,1,paid,0,0
+S0446,Adweta Lad,Information Technology,4,2022,22,66.91,57.26,8.17,7.18,1,1,paid,4,0
+S0447,Tanish Mangal,Electrical Engineering,1,2025,22,90.38,97.93,5.59,5.65,0,0,paid,6,0
+S0448,Ryan Das,Computer Science Engineering,1,2024,18,88.07,91.45,7.23,7.28,0,0,overdue,4,0
+S0449,Siya Gera,Production and Industrial Engineering,2,2025,22,57.24,38.38,6.78,6.76,0,0,overdue,4,0
+S0450,Gagan Nagarajan,Mechanical Engineering,1,2022,22,64.81,65.28,6.42,6.56,0,0,paid,10,0
+S0451,Dhruv Mannan,Information Technology,4,2025,19,60.78,60.91,6.99,7.05,0,0,paid,7,0
+S0452,Owen Pathak,Electrical Engineering,4,2025,21,41.37,19.13,7.65,7.58,0,0,paid,0,0
+S0453,Jairaj Iyer,Chemical Engineering,4,2022,23,61.49,65.01,7.05,7.36,0,0,paid,1,0
+S0454,Warjas Tak,Civil Engineering,4,2022,17,72.41,72.75,5.72,6.44,0,0,overdue,14,0
+S0455,Jyoti Sibal,Biotechnology,3,2025,23,91.19,97.66,7.65,7.44,1,1,paid,7,0
+S0456,Gabriel Bhatti,Computer Science Engineering,2,2023,19,95.44,99.42,7.49,7.29,3,3,paid,7,1
+S0457,Varenya Vora,Mathematics and Computing,4,2024,20,75.82,81.94,6.15,6.15,0,0,paid,8,0
+S0458,Ethan Dass,Chemical Engineering,2,2021,19,62.92,56.69,5.54,5.91,0,0,paid,12,0
+S0459,Shivani Shukla,Civil Engineering,3,2025,22,97.11,100.0,7.44,7.73,1,1,paid,3,0
+S0460,Kabir Gopal,Biotechnology,4,2025,23,90.04,93.01,7.42,7.35,0,0,overdue,10,0
+S0461,Rachita Thakkar,Electronics and Communication Engineering,4,2021,23,68.37,60.61,8.53,8.34,0,0,overdue,4,0
+S0462,Jeet Vasa,Computer Science Engineering,1,2025,18,74.16,70.46,8.53,8.81,1,1,paid,2,0
+S0463,Nitesh Edwin,Computer Science Engineering,1,2025,19,61.38,57.59,7.26,7.21,1,1,overdue,4,0
+S0464,Hiral Venkataraman,Information Technology,2,2021,19,61.68,48.56,4.52,4.57,0,0,paid,6,1
+S0465,Zashil Hegde,Mathematics and Computing,4,2024,22,93.5,100.0,7.66,7.92,0,0,paid,15,0
+S0466,Jeremiah Mitter,Production and Industrial Engineering,4,2024,21,74.69,71.8,6.36,5.79,0,0,paid,5,0
+S0467,Yadavi Ganguly,Production and Industrial Engineering,3,2022,21,97.66,97.01,3.88,4.18,0,0,paid,6,1
+S0468,Onveer Nazareth,Information Technology,1,2021,23,73.0,68.35,6.96,7.0,0,0,paid,9,0
+S0469,Ayush Bumb,Production and Industrial Engineering,3,2024,17,93.43,100.0,6.37,6.44,0,0,paid,4,0
+S0470,Shivansh Saha,Information Technology,3,2023,21,58.08,42.4,7.99,7.5,0,0,paid,11,0
+S0471,Widisha Mann,Electrical Engineering,3,2021,22,83.27,86.96,6.43,6.74,0,0,overdue,11,0
+S0472,Vasudha Konda,Computer Science Engineering,1,2025,23,92.81,96.63,6.34,6.2,0,0,paid,15,0
+S0473,Chameli Setty,Computer Science Engineering,1,2023,17,74.12,72.18,6.47,6.62,0,0,paid,6,0
+S0474,Nakul Sarraf,Civil Engineering,1,2023,20,72.09,81.4,7.76,7.4,1,1,overdue,11,0
+S0475,Ucchal Jani,Electrical Engineering,4,2021,19,98.16,100.0,8.13,7.88,1,1,overdue,8,0
+S0476,Dhriti Nagar,Mechanical Engineering,1,2025,22,45.36,20.58,8.01,8.04,0,0,overdue,5,0
+S0477,Mohini De,Electrical Engineering,2,2020,23,96.69,96.26,7.64,7.74,0,0,paid,13,0
+S0478,Yutika Cherian,Information Technology,3,2023,19,61.48,55.63,7.65,7.75,0,0,paid,4,0
+S0479,Unnati Das,Production and Industrial Engineering,3,2023,19,59.84,53.17,7.66,7.32,0,0,paid,8,0
+S0480,Yug Dhaliwal,Information Technology,3,2025,17,91.82,100.0,5.44,4.51,0,0,paid,21,1
+S0481,Bina Rajagopalan,Civil Engineering,4,2020,23,51.51,39.74,7.04,7.2,0,0,paid,4,0
+S0482,Yuvraj Dutta,Mechanical Engineering,4,2025,23,83.5,92.37,7.18,7.21,0,0,paid,11,0
+S0483,Dhriti Gupta,Chemical Engineering,2,2023,23,96.43,100.0,7.25,7.25,0,0,paid,8,0
+S0484,Wishi Varma,Mathematics and Computing,3,2020,20,90.31,100.0,7.69,7.46,2,2,paid,6,0
+S0485,Darika Tank,Mechanical Engineering,2,2020,17,58.83,51.36,6.39,6.54,0,0,overdue,5,0
+S0486,Maya Tiwari,Chemical Engineering,3,2021,20,72.75,80.07,7.86,7.75,0,0,paid,8,0
+S0487,Tanveer Pandit,Biotechnology,3,2022,17,78.7,76.87,6.36,6.82,0,0,paid,9,0
+S0488,Baghyawati Talwar,Electronics and Communication Engineering,4,2020,21,68.79,52.83,8.47,7.78,0,0,paid,4,0
+S0489,Bhavika Yadav,Information Technology,1,2023,17,95.43,97.93,4.23,4.51,1,1,paid,5,1
+S0490,Raagini Desai,Chemical Engineering,1,2022,19,76.15,87.75,7.49,7.38,0,0,paid,5,0
+S0491,Neha Pau,Production and Industrial Engineering,2,2020,17,87.84,95.15,6.16,6.22,0,0,paid,8,0
+S0492,Charan Hayer,Electronics and Communication Engineering,2,2023,19,52.83,33.25,7.25,6.77,0,0,paid,11,0
+S0493,Ethan Raju,Information Technology,2,2021,21,62.72,49.28,7.98,8.06,0,0,paid,7,0
+S0494,Ati Dani,Information Technology,3,2023,18,95.92,95.74,6.44,7.0,0,0,paid,5,0
+S0495,Meera Prakash,Biotechnology,2,2025,23,58.01,51.31,8.86,8.52,2,2,paid,14,0
+S0496,Jasmit Dhawan,Chemical Engineering,3,2020,18,73.01,54.13,7.92,7.91,0,0,paid,2,0
+S0497,Xiti Baria,Biotechnology,3,2022,17,46.05,45.63,4.51,5.62,0,0,paid,0,1
+S0498,Laksh Nath,Electronics and Communication Engineering,3,2024,23,33.95,6.68,6.53,6.65,0,0,overdue,1,0
+S0499,Zilmil Shan,Biotechnology,3,2021,18,72.04,78.86,8.09,7.87,0,0,paid,12,0
+S0500,Falak Nagar,Mechanical Engineering,4,2022,18,40.94,18.42,7.24,7.2,0,0,overdue,8,0
+S0501,Chandani Nayar,Chemical Engineering,3,2022,21,85.57,100.0,6.86,6.9,0,0,paid,7,0
+S0502,Chandani Soman,Mathematics and Computing,2,2020,23,82.33,95.39,8.03,7.77,2,2,paid,4,0
+S0503,Jyoti Narula,Production and Industrial Engineering,1,2025,22,61.76,64.34,7.47,7.36,1,1,paid,6,0
+S0504,Omaja Morar,Electrical Engineering,4,2025,23,86.22,95.08,5.96,5.97,1,1,overdue,9,0
+S0505,Urvi Lanka,Chemical Engineering,4,2020,22,51.12,38.92,7.9,7.16,0,0,paid,11,0
+S0506,Charan Srinivasan,Electronics and Communication Engineering,4,2022,18,81.42,81.42,5.98,6.27,1,1,paid,2,0
+S0507,Manbir Kibe,Biotechnology,4,2024,17,50.28,36.25,6.7,7.1,1,1,overdue,15,0
+S0508,Rayaan Bahl,Chemical Engineering,1,2025,20,89.46,99.23,6.54,6.68,1,1,paid,5,0
+S0509,Omya Doshi,Mathematics and Computing,1,2024,20,58.84,59.78,6.45,6.39,1,1,paid,10,0
+S0510,Nirja Thaker,Civil Engineering,2,2025,23,87.51,99.52,7.71,7.89,1,1,paid,18,0
+S0511,David Devi,Chemical Engineering,3,2025,21,82.63,85.32,8.31,7.79,1,1,paid,6,0
+S0512,Ekta Sridhar,Information Technology,3,2020,21,79.5,75.12,8.74,8.43,1,1,paid,8,0
+S0513,Dipta Ghose,Mathematics and Computing,2,2024,20,65.7,65.02,7.45,7.13,0,0,paid,9,0
+S0514,Irya Lalla,Mathematics and Computing,2,2025,21,73.25,61.69,7.8,7.24,0,0,paid,14,0
+S0515,Rehaan Koshy,Mechanical Engineering,4,2020,19,72.24,75.07,6.78,7.27,0,0,paid,0,0
+S0516,Umang Mishra,Electronics and Communication Engineering,3,2025,23,94.06,100.0,6.09,6.61,0,0,paid,9,0
+S0517,Sarthak Suresh,Production and Industrial Engineering,4,2021,19,69.22,80.35,6.69,6.98,0,0,paid,5,0
+S0518,Ikshita Mahal,Biotechnology,3,2025,19,88.41,97.46,4.23,4.44,0,1,paid,10,1
+S0519,Ladli Rana,Civil Engineering,1,2020,23,92.53,93.95,7.07,7.22,1,1,paid,4,0
+S0520,Madhav Mannan,Electrical Engineering,2,2025,17,55.9,40.3,7.57,7.07,0,0,paid,10,0
+S0521,Farhan Pal,Biotechnology,2,2023,20,55.29,50.67,9.57,8.68,3,3,paid,2,1
+S0522,Varenya Kala,Chemical Engineering,4,2021,18,78.93,91.49,4.35,4.47,0,0,paid,14,1
+S0523,Anita Devan,Chemical Engineering,4,2024,17,56.73,49.16,3.19,3.43,1,2,paid,10,1
+S0524,Xavier Bedi,Information Technology,1,2025,22,59.22,50.9,7.32,6.94,0,0,paid,4,0
+S0525,Viraj Ben,Civil Engineering,2,2022,17,44.19,18.81,6.66,6.6,0,0,paid,6,0
+S0526,Ganga Sodhi,Production and Industrial Engineering,3,2023,17,66.66,70.99,5.38,5.78,0,0,paid,7,0
+S0527,Abdul Dugar,Information Technology,3,2024,20,72.12,68.91,8.69,8.35,0,0,paid,7,0
+S0528,Vansha Iyengar,Mechanical Engineering,1,2021,23,76.76,78.72,6.35,6.71,1,1,paid,2,0
+S0529,Ekani Mangal,Mechanical Engineering,1,2021,22,57.87,40.48,6.01,5.85,0,0,paid,8,0
+S0530,Gaurav Kata,Chemical Engineering,4,2024,21,66.79,59.47,4.97,5.61,1,1,paid,11,0
+S0531,Parth Sahni,Production and Industrial Engineering,2,2023,23,89.17,98.45,6.65,6.59,0,0,paid,13,0
+S0532,Balhaar Ranganathan,Electronics and Communication Engineering,3,2021,23,81.35,84.81,7.77,7.97,0,0,paid,12,0
+S0533,Quincy Mann,Computer Science Engineering,4,2022,17,73.41,72.55,8.74,8.13,0,0,overdue,14,0
+S0534,Chanchal Chhabra,Production and Industrial Engineering,4,2024,19,69.64,78.5,8.32,8.15,0,0,paid,4,0
+S0535,Suhani Viswanathan,Biotechnology,4,2025,20,79.96,79.72,7.3,7.22,0,0,paid,0,0
+S0536,Yamini Sidhu,Mechanical Engineering,1,2021,19,80.62,97.24,6.95,6.94,0,0,paid,3,0
+S0537,Isaiah Narayanan,Biotechnology,4,2021,18,97.33,100.0,4.31,5.28,1,2,paid,8,0
+S0538,Aarini Grewal,Civil Engineering,1,2024,17,51.98,36.15,6.97,7.12,0,0,paid,8,0
+S0539,Chakrika Hans,Chemical Engineering,1,2021,18,81.02,89.08,6.13,6.1,0,0,paid,5,0
+S0540,Prisha Varma,Mechanical Engineering,1,2021,19,99.93,100.0,6.16,6.41,0,0,paid,8,0
+S0541,Nandini Chandran,Biotechnology,1,2020,18,58.74,56.73,6.99,6.78,0,0,paid,8,0
+S0542,Vansha Naik,Mathematics and Computing,3,2025,18,70.34,76.3,5.44,5.28,0,0,paid,5,0
+S0543,Advika Rajagopal,Electronics and Communication Engineering,2,2023,18,62.08,62.46,6.57,6.2,0,0,overdue,9,0
+S0544,Amara Narayan,Mathematics and Computing,3,2020,19,82.17,82.57,7.42,7.5,0,0,paid,8,0
+S0545,Advika Parsa,Civil Engineering,3,2021,22,72.17,78.93,8.17,7.86,0,0,paid,3,0
+S0546,David Dani,Information Technology,2,2024,20,70.23,73.85,6.41,6.67,0,0,overdue,10,0
+S0547,Nathaniel Ravi,Mechanical Engineering,2,2020,22,78.31,79.5,7.14,6.95,2,2,paid,0,0
+S0548,Jacob Merchant,Civil Engineering,2,2021,19,71.85,69.95,5.1,5.29,0,0,paid,3,0
+S0549,Theodore Deol,Electronics and Communication Engineering,3,2023,20,97.58,100.0,7.9,7.56,1,1,paid,9,0
+S0550,Suhani Prakash,Information Technology,4,2020,20,55.36,46.89,8.42,8.14,0,0,paid,11,0
+S0551,Tejas Kota,Biotechnology,4,2022,22,64.07,52.16,8.11,7.59,1,1,paid,12,0
+S0552,Sanya Wable,Information Technology,4,2025,22,84.1,81.51,7.29,7.38,0,0,paid,6,0
+S0553,Faras Choudhury,Production and Industrial Engineering,4,2020,17,99.18,100.0,8.12,7.75,1,1,paid,5,0
+S0554,Mason Gala,Biotechnology,3,2021,19,98.66,100.0,6.38,6.55,0,0,paid,7,0
+S0555,Jackson Jha,Mathematics and Computing,2,2024,22,87.58,100.0,7.3,6.68,1,1,paid,10,0
+S0556,Gavin Uppal,Computer Science Engineering,1,2022,20,91.09,100.0,4.85,4.84,0,0,paid,10,1
+S0557,Sudiksha Deo,Electronics and Communication Engineering,4,2020,21,39.5,30.25,8.16,8.4,0,0,overdue,1,0
+S0558,Tanmayi Bhardwaj,Electrical Engineering,2,2023,21,53.1,38.25,7.19,7.01,0,0,paid,1,0
+S0559,Darika Bains,Information Technology,3,2022,20,51.44,50.2,7.76,7.5,0,0,paid,10,0
+S0560,Aarush Kamdar,Electronics and Communication Engineering,1,2025,21,64.98,49.81,6.89,6.96,0,0,paid,5,0
+S0561,Chakradev Sampath,Electrical Engineering,4,2025,19,73.91,68.94,10.0,9.34,0,0,paid,2,0
+S0562,Darpan Biswas,Electrical Engineering,4,2020,20,59.19,39.21,3.82,4.22,0,0,paid,7,1
+S0563,Bhavini Rege,Computer Science Engineering,1,2023,18,81.14,85.01,7.95,7.66,0,0,overdue,9,0
+S0564,Osha Prasad,Electronics and Communication Engineering,4,2023,20,68.2,61.55,6.15,5.81,0,0,paid,4,0
+S0565,Krishna Prashad,Information Technology,1,2025,17,97.74,100.0,5.21,5.38,0,0,overdue,5,0
+S0566,Ijaya Dani,Chemical Engineering,2,2021,18,80.41,77.65,5.62,5.88,0,0,paid,3,0
+S0567,Joshua Kapoor,Production and Industrial Engineering,1,2020,23,93.2,100.0,8.17,8.47,0,0,paid,9,0
+S0568,Arin Misra,Electrical Engineering,2,2022,20,73.57,58.0,7.0,6.98,1,1,paid,2,0
+S0569,Ladli Karpe,Electrical Engineering,1,2023,18,96.45,96.29,6.37,6.44,0,0,paid,11,0
+S0570,Hiral Dubey,Mathematics and Computing,4,2020,19,79.14,73.32,6.28,6.23,0,0,paid,13,0
+S0571,Isaiah Balay,Electrical Engineering,3,2021,23,56.08,47.3,6.16,6.47,0,0,paid,12,0
+S0572,Amol Khosla,Mathematics and Computing,3,2024,18,60.51,33.86,7.37,7.21,0,0,paid,4,0
+S0573,Harrison Bandi,Mechanical Engineering,2,2025,20,80.66,79.27,6.59,6.87,1,1,paid,6,0
+S0574,Yash Basu,Chemical Engineering,3,2025,20,91.48,100.0,6.37,6.4,0,0,overdue,9,0
+S0575,Vivaan Zacharia,Biotechnology,4,2021,18,77.7,76.38,7.14,6.78,1,1,paid,1,0
+S0576,Logan Thakur,Information Technology,1,2024,19,59.86,53.85,6.55,6.22,0,0,overdue,2,0
+S0577,Eiravati Nagi,Chemical Engineering,4,2021,18,89.75,97.48,8.87,8.65,1,1,paid,6,0
+S0578,Luke Verma,Information Technology,1,2023,18,72.02,76.04,7.5,7.52,1,1,paid,2,0
+S0579,Charita Maharaj,Computer Science Engineering,1,2021,17,62.65,57.12,6.37,6.44,0,0,paid,6,0
+S0580,Prisha Tandon,Production and Industrial Engineering,4,2022,17,93.24,100.0,5.57,6.53,0,0,paid,0,0
+S0581,Lakshmi Vohra,Production and Industrial Engineering,2,2025,19,72.06,58.59,7.22,7.41,1,1,paid,6,0
+S0582,Nilima Dixit,Electrical Engineering,2,2024,19,81.18,84.04,8.18,7.83,0,0,paid,9,0
+S0583,Qarin Yogi,Information Technology,3,2025,20,77.68,91.58,8.34,7.61,0,0,paid,4,0
+S0584,Umang Mital,Computer Science Engineering,2,2021,23,85.77,92.29,4.17,4.14,0,0,paid,12,1
+S0585,Ubika Bhardwaj,Computer Science Engineering,3,2024,21,79.7,80.97,8.09,8.25,1,1,paid,8,0
+S0586,Omaja Wagle,Information Technology,1,2021,18,83.24,82.18,7.52,7.83,0,0,paid,15,0
+S0587,Xavier Kumer,Biotechnology,3,2021,18,74.32,80.6,6.27,6.19,0,0,overdue,9,0
+S0588,Farhan Sengupta,Mechanical Engineering,2,2025,23,88.42,88.71,5.3,5.28,0,0,paid,8,0
+S0589,George Wason,Information Technology,1,2022,22,65.94,51.83,7.02,7.18,0,0,paid,15,0
+S0590,Charan Loyal,Information Technology,3,2024,20,61.12,57.69,8.87,8.21,0,0,paid,7,0
+S0591,Elijah Guha,Biotechnology,4,2020,23,98.67,100.0,6.22,6.55,1,1,paid,18,0
+S0592,Varenya Joshi,Electronics and Communication Engineering,3,2024,23,41.56,20.37,7.44,7.75,0,0,overdue,4,0
+S0593,Chavvi Aurora,Information Technology,2,2024,18,81.29,85.9,5.47,5.57,1,1,paid,5,0
+S0594,Jacob Srinivas,Electrical Engineering,1,2020,18,80.41,70.29,7.24,7.35,0,0,paid,5,0
+S0595,Mekhala Khatri,Electronics and Communication Engineering,1,2021,21,71.04,68.32,7.65,7.34,1,1,overdue,8,0
+S0596,Barkha Rai,Chemical Engineering,2,2025,20,54.09,34.01,7.09,6.82,2,2,paid,9,0
+S0597,Darika Lal,Civil Engineering,3,2025,19,63.97,60.32,5.73,5.92,1,1,paid,7,0
+S0598,Unnati Chaudhari,Production and Industrial Engineering,1,2020,23,67.99,65.32,7.58,7.68,0,0,overdue,15,0
+S0599,Ekaja Jani,Chemical Engineering,1,2020,19,62.6,61.84,8.76,8.38,1,1,overdue,12,0
+S0600,Odika Bath,Civil Engineering,1,2022,21,58.04,51.93,7.69,7.62,0,0,paid,9,0
+S0601,Madhav Babu,Mechanical Engineering,3,2021,19,68.6,74.75,8.87,8.43,0,0,paid,12,0
+S0602,Chakrika Dua,Mathematics and Computing,4,2022,18,91.07,100.0,7.66,7.65,1,1,overdue,7,0
+S0603,Victor Raghavan,Production and Industrial Engineering,2,2025,21,57.73,36.55,5.99,6.27,0,0,overdue,3,0
+S0604,Xalak Nazareth,Electrical Engineering,3,2020,19,80.51,76.19,6.38,6.32,0,0,paid,16,0
+S0605,Vritti Sharma,Civil Engineering,1,2020,18,62.33,51.52,6.41,6.46,1,1,paid,0,0
+S0606,Omkaar Dey,Mechanical Engineering,1,2025,22,62.47,49.14,6.93,6.9,0,0,overdue,4,0
+S0607,Qarin Bhargava,Biotechnology,1,2023,21,69.97,72.64,8.34,8.3,0,0,paid,11,0
+S0608,Falan Bava,Information Technology,1,2022,23,94.23,100.0,6.17,5.98,1,1,overdue,14,0
+S0609,Nitara Devan,Chemical Engineering,3,2024,23,63.34,60.12,5.57,5.43,0,0,paid,14,0
+S0610,Ekansh Dora,Information Technology,2,2024,17,69.65,59.45,7.89,7.44,0,0,paid,12,0
+S0611,Yashasvi Shah,Mathematics and Computing,1,2024,19,59.73,58.01,6.61,6.79,0,0,overdue,7,0
+S0612,Vasudha Sura,Mechanical Engineering,3,2021,17,82.28,81.57,4.94,5.15,0,0,paid,4,0
+S0613,Nisha Arora,Civil Engineering,3,2025,17,91.34,89.84,7.55,7.89,0,0,paid,10,0
+S0614,Bhavini Badal,Electronics and Communication Engineering,1,2021,21,97.99,100.0,7.43,7.56,0,0,paid,8,0
+S0615,Praneel Chhabra,Civil Engineering,4,2023,17,92.21,91.13,6.66,6.9,0,0,paid,5,0
+S0616,Wridesh Handa,Biotechnology,3,2021,21,97.7,100.0,5.66,6.13,0,0,overdue,3,0
+S0617,Irya Loke,Electronics and Communication Engineering,3,2020,23,72.5,66.48,7.41,7.62,1,1,paid,8,0
+S0618,Farhan Prakash,Electrical Engineering,3,2020,20,63.08,52.44,7.39,7.68,1,1,paid,12,0
+S0619,Yagnesh Kara,Chemical Engineering,1,2022,19,83.28,86.91,6.79,6.88,1,1,paid,3,0
+S0620,Azad Chander,Computer Science Engineering,4,2021,20,88.25,91.04,7.47,7.46,1,1,paid,7,0
+S0621,Krishna Soni,Electrical Engineering,1,2024,17,64.18,54.83,7.01,6.95,0,0,overdue,7,0
+S0622,Onveer Butala,Information Technology,1,2021,20,81.98,86.51,4.98,4.81,1,1,paid,7,1
+S0623,Garima Chandran,Chemical Engineering,3,2021,21,60.3,37.52,6.78,6.8,0,0,overdue,10,0
+S0624,Victor Kakar,Mathematics and Computing,3,2020,23,74.6,78.28,6.66,6.96,0,0,paid,8,0
+S0625,Anika Batra,Electrical Engineering,4,2020,17,46.88,25.19,5.8,5.99,0,0,paid,8,0
+S0626,Bachittar Gola,Information Technology,1,2022,23,76.89,67.9,7.29,7.3,1,1,paid,4,0
+S0627,Amol Johal,Chemical Engineering,4,2024,21,80.35,90.43,5.6,6.52,0,0,paid,6,0
+S0628,Mitali Bose,Electronics and Communication Engineering,3,2023,19,80.33,83.46,7.03,7.18,0,0,paid,0,0
+S0629,Wridesh Ramachandran,Biotechnology,2,2022,22,55.52,37.89,5.22,4.61,0,0,paid,2,1
+S0630,Leena Dey,Mechanical Engineering,4,2021,23,66.76,69.84,6.28,6.69,0,0,paid,8,0
+S0631,Xiti Pal,Information Technology,3,2020,17,86.36,89.84,8.99,8.3,0,0,paid,1,0
+S0632,Rajeshri Kata,Production and Industrial Engineering,2,2025,23,92.08,99.16,6.09,6.3,0,0,overdue,9,0
+S0633,Harini Ranganathan,Chemical Engineering,3,2020,23,86.97,97.8,6.97,6.58,1,1,overdue,5,0
+S0634,Ayushman Mahajan,Mathematics and Computing,3,2022,23,70.55,71.09,9.06,8.42,0,0,paid,9,0
+S0635,Vritti Kari,Mathematics and Computing,2,2022,19,56.03,36.74,5.34,5.2,0,0,overdue,7,0
+S0636,Rachana Grewal,Computer Science Engineering,4,2022,22,89.63,94.98,6.16,6.47,0,0,overdue,4,0
+S0637,Frederick Merchant,Electronics and Communication Engineering,1,2021,23,64.39,68.67,7.45,7.36,1,1,paid,12,0
+S0638,Ethan Butala,Computer Science Engineering,2,2024,19,41.64,19.97,5.21,5.24,1,1,overdue,5,0
+S0639,Lajita Dube,Civil Engineering,2,2023,22,82.9,82.36,8.62,8.66,1,1,paid,11,0
+S0640,Edhitha Patel,Civil Engineering,1,2025,17,93.24,100.0,6.09,6.12,0,0,paid,8,0
+S0641,Abdul Morar,Mathematics and Computing,2,2024,20,95.71,100.0,7.88,8.0,0,0,paid,0,0
+S0642,Anamika Chaudry,Production and Industrial Engineering,3,2023,18,50.55,34.17,5.79,5.96,0,0,paid,5,0
+S0643,Rachit Sankar,Electrical Engineering,2,2020,20,86.42,95.67,4.6,4.65,1,1,paid,5,1
+S0644,Harshil Bal,Electrical Engineering,2,2024,17,84.54,94.21,6.66,6.93,0,0,paid,4,0
+S0645,Girik Nair,Computer Science Engineering,1,2022,23,45.85,30.45,7.41,7.26,1,1,paid,8,0
+S0646,Advik Manne,Information Technology,3,2021,20,70.83,69.17,6.37,7.14,0,0,paid,11,0
+S0647,Frado Kibe,Chemical Engineering,1,2025,21,52.04,57.81,4.59,5.11,0,1,overdue,7,0
+S0648,Lajita Gara,Chemical Engineering,4,2025,18,97.47,100.0,7.49,7.44,0,0,paid,6,0
+S0649,Charvi Loyal,Mathematics and Computing,3,2024,20,54.35,41.75,6.63,7.34,0,0,paid,9,0
+S0650,Dev Ganesh,Chemical Engineering,3,2021,20,64.96,53.09,5.46,5.92,0,0,paid,2,0
+S0651,Oviya Mistry,Computer Science Engineering,4,2021,20,57.74,46.72,8.53,8.46,0,0,overdue,5,0
+S0652,Jalsa Krishnamurthy,Computer Science Engineering,2,2024,18,68.69,65.33,6.67,6.59,1,1,overdue,10,0
+S0653,Rohan Shankar,Electrical Engineering,1,2024,17,99.83,100.0,5.89,5.74,0,0,paid,8,0
+S0654,Daksha Ahuja,Information Technology,2,2025,20,84.19,88.04,6.26,6.2,1,1,paid,10,0
+S0655,Lajita Narayan,Information Technology,3,2025,20,86.86,84.66,6.31,6.99,2,2,paid,3,0
+S0656,Qushi Deshpande,Information Technology,3,2021,19,61.28,55.02,6.27,6.62,0,0,paid,6,0
+S0657,Sai Srinivas,Computer Science Engineering,4,2020,19,88.68,99.07,5.93,6.16,1,1,paid,9,0
+S0658,Mitali Nagar,Chemical Engineering,4,2021,19,92.09,100.0,8.56,8.25,0,0,paid,8,0
+S0659,Xavier Nanda,Information Technology,4,2023,20,57.84,43.6,7.85,7.53,0,0,paid,6,0
+S0660,Maya Patla,Electrical Engineering,2,2025,17,79.82,91.48,6.26,6.27,0,0,overdue,7,0
+S0661,Pranit Bala,Mechanical Engineering,1,2020,22,68.19,74.59,7.6,7.5,0,0,overdue,3,0
+S0662,Shaurya Sarma,Civil Engineering,2,2020,23,62.04,61.58,6.45,6.7,0,0,paid,2,0
+S0663,Ekapad Rege,Production and Industrial Engineering,1,2020,22,82.68,85.55,7.28,7.55,1,1,overdue,12,0
+S0664,Liam Mitter,Computer Science Engineering,4,2023,18,98.03,100.0,9.24,8.32,1,1,paid,8,0
+S0665,Mitesh Sampath,Electronics and Communication Engineering,1,2023,23,89.58,94.13,7.56,7.63,0,0,paid,6,0
+S0666,Ethan Sen,Chemical Engineering,3,2021,21,89.0,99.21,5.35,5.45,0,0,paid,6,0
+S0667,Nandini Warrior,Computer Science Engineering,4,2020,21,75.1,78.2,6.81,7.44,0,0,overdue,5,0
+S0668,Balhaar Parsa,Computer Science Engineering,3,2021,22,80.01,60.13,4.96,5.24,1,2,overdue,7,0
+S0669,Ikbal Kothari,Mathematics and Computing,4,2025,22,88.4,100.0,8.14,8.24,0,0,paid,0,0
+S0670,Ojas Basu,Mechanical Engineering,1,2021,21,87.57,83.92,7.3,7.54,0,0,paid,9,0
+S0671,Garima Sani,Biotechnology,4,2023,17,70.04,58.8,6.33,6.49,0,0,paid,9,0
+S0672,Guneet Kuruvilla,Production and Industrial Engineering,4,2025,18,72.42,62.67,7.21,7.56,0,0,overdue,7,0
+S0673,Sanaya Prasad,Electronics and Communication Engineering,4,2022,20,72.35,72.6,5.33,4.8,1,1,paid,11,1
+S0674,Xiti Dora,Electrical Engineering,3,2022,19,42.96,17.91,8.37,8.09,1,1,paid,2,0
+S0675,Vasudha Cheema,Information Technology,1,2025,19,59.36,37.01,6.83,6.91,0,0,overdue,6,0
+S0676,Frederick D’Alia,Mathematics and Computing,2,2023,23,79.75,93.29,6.18,6.15,0,0,overdue,13,0
+S0677,Ijaya Muni,Chemical Engineering,4,2024,19,84.51,80.98,6.56,6.86,0,0,paid,6,0
+S0678,Samuel Verma,Information Technology,4,2022,20,66.76,61.53,6.04,5.92,1,1,paid,10,0
+S0679,Vamakshi Chatterjee,Mathematics and Computing,2,2024,20,49.96,36.92,6.43,6.45,0,0,overdue,6,0
+S0680,Eiravati Bhavsar,Electronics and Communication Engineering,2,2021,19,78.76,65.56,7.92,7.94,1,1,paid,0,0
+S0681,Ishwar Bajaj,Information Technology,4,2023,23,48.26,23.32,4.31,4.71,1,1,paid,7,1
+S0682,Ikbal Gala,Mechanical Engineering,3,2024,22,69.27,70.22,5.69,5.84,0,0,overdue,8,0
+S0683,Zaitra Ghosh,Information Technology,4,2020,21,76.82,84.16,7.85,7.25,1,1,paid,9,0
+S0684,Ganga Sandhu,Production and Industrial Engineering,4,2022,20,81.37,76.03,8.03,7.23,0,0,paid,0,0
+S0685,Nidhi Gour,Mathematics and Computing,4,2025,18,60.67,60.67,5.79,6.34,0,0,paid,14,0
+S0686,Meghana Balakrishnan,Mathematics and Computing,1,2024,22,94.95,100.0,7.31,7.04,0,0,paid,6,0
+S0687,Shivani Sanghvi,Mechanical Engineering,3,2020,20,72.0,77.73,6.75,6.57,0,0,paid,12,0
+S0688,Tanish Jha,Biotechnology,4,2025,19,90.09,92.66,3.12,3.82,0,1,paid,1,1
+S0689,Harsh Yadav,Chemical Engineering,1,2024,18,97.8,100.0,7.41,7.27,0,0,overdue,11,0
+S0690,Eshana Hegde,Electrical Engineering,1,2025,20,66.7,49.29,9.0,9.1,0,0,overdue,7,0
+S0691,Adweta Suri,Computer Science Engineering,3,2022,21,63.85,69.21,8.77,8.3,0,0,paid,9,0
+S0692,Lipika Ramanathan,Biotechnology,1,2022,21,91.37,100.0,6.11,6.1,0,0,paid,9,0
+S0693,Ijaya Pandey,Biotechnology,3,2022,23,95.06,100.0,6.42,6.4,0,0,paid,7,0
+S0694,Orinder Mishra,Information Technology,2,2025,21,77.8,79.44,6.85,7.12,0,0,overdue,7,0
+S0695,Krish Munshi,Biotechnology,3,2023,17,86.72,80.0,6.67,6.87,1,1,paid,5,0
+S0696,Dalaja Dada,Information Technology,3,2021,18,63.11,62.04,6.2,6.45,0,0,paid,4,0
+S0697,Lohit Vaidya,Mathematics and Computing,1,2024,20,55.07,45.21,7.61,7.57,0,0,overdue,4,0
+S0698,Lakshit Rajagopal,Computer Science Engineering,2,2021,20,83.39,96.5,3.82,3.64,0,1,paid,5,1
+S0699,Vidhi Yogi,Mechanical Engineering,3,2021,22,57.69,48.62,7.23,6.7,0,0,paid,8,0
+S0700,Ojas Suri,Information Technology,1,2025,19,42.47,16.37,7.29,7.31,1,1,paid,9,0
+S0701,Rachit Murty,Electronics and Communication Engineering,4,2023,23,49.46,33.53,8.09,7.75,1,1,paid,4,0
+S0702,Chatresh Parmer,Mechanical Engineering,1,2021,17,86.28,88.82,7.19,7.24,0,0,paid,11,0
+S0703,Laban Hayer,Mathematics and Computing,2,2021,23,67.75,63.15,7.31,7.09,0,0,paid,12,0
+S0704,Yashasvi Talwar,Electrical Engineering,3,2025,20,78.23,75.67,7.27,7.41,0,0,paid,7,0
+S0705,Ojasvi Sawhney,Computer Science Engineering,4,2025,20,61.44,63.17,7.42,7.24,0,0,paid,7,0
+S0706,Fitan Balasubramanian,Computer Science Engineering,2,2024,23,78.96,72.79,7.54,7.66,1,1,overdue,0,0
+S0707,Brinda Bali,Mechanical Engineering,4,2022,19,83.96,80.62,8.83,8.59,0,0,overdue,8,0
+S0708,Bhavya Ganguly,Mechanical Engineering,2,2023,23,86.97,100.0,5.86,6.07,0,0,paid,5,0
+S0709,Warhi Vaidya,Chemical Engineering,1,2024,17,87.78,100.0,3.04,3.22,1,1,overdue,9,1
+S0710,Amrita Peri,Production and Industrial Engineering,3,2022,21,56.48,55.03,6.03,6.09,2,2,paid,7,0
+S0711,Ridhi Kamdar,Civil Engineering,3,2020,20,52.83,33.56,6.62,6.69,0,0,overdue,3,0
+S0712,Yug Mishra,Mechanical Engineering,2,2022,23,86.81,100.0,6.96,7.01,0,0,overdue,0,0
+S0713,Shivani Lall,Mathematics and Computing,4,2020,19,66.32,61.67,4.77,5.77,0,0,paid,4,0
+S0714,Reva Dalal,Biotechnology,3,2025,23,53.69,42.44,7.63,7.4,0,0,paid,12,0
+S0715,Shaurya Panchal,Computer Science Engineering,2,2023,23,62.75,49.41,8.74,8.46,0,0,paid,4,0
+S0716,Noah Dewan,Production and Industrial Engineering,4,2025,23,48.15,32.02,6.37,7.02,0,0,paid,6,0
+S0717,Samuel Bhargava,Mechanical Engineering,2,2024,21,57.4,36.59,7.61,7.56,2,2,overdue,4,0
+S0718,Avni Yohannan,Mechanical Engineering,1,2021,18,91.4,96.65,8.19,8.16,0,0,paid,6,0
+S0719,Brinda Mann,Production and Industrial Engineering,2,2025,21,85.11,100.0,6.41,6.64,0,0,overdue,6,0
+S0720,Yoshita Chandran,Information Technology,2,2025,18,53.72,36.26,7.77,7.23,0,0,paid,7,0
+S0721,Daniel Malhotra,Chemical Engineering,3,2022,23,66.37,55.28,6.66,6.31,0,0,paid,11,0
+S0722,Kevin Krish,Information Technology,4,2023,18,89.08,95.05,4.96,4.39,0,0,paid,6,1
+S0723,Yug Ramaswamy,Information Technology,4,2024,20,90.91,91.57,7.25,7.26,1,1,paid,0,0
+S0724,Amruta Sachdeva,Chemical Engineering,3,2025,20,96.54,100.0,7.04,7.2,0,0,overdue,5,0
+S0725,Faqid Chander,Electronics and Communication Engineering,2,2021,20,90.28,87.32,6.81,6.78,0,0,overdue,0,0
+S0726,Jyoti Sha,Electronics and Communication Engineering,3,2023,20,54.74,49.93,8.22,8.53,0,0,paid,3,0
+S0727,Aarnav Chander,Biotechnology,3,2020,22,96.27,100.0,6.2,5.94,0,0,paid,6,0
+S0728,Ishita Bhatnagar,Computer Science Engineering,1,2025,23,87.78,95.74,8.24,8.28,0,0,paid,7,0
+S0729,Tejas Sanghvi,Mathematics and Computing,2,2021,23,54.28,27.82,8.25,7.86,0,0,overdue,10,0
+S0730,Warda Loyal,Electronics and Communication Engineering,4,2020,19,64.98,67.72,7.49,7.52,0,0,paid,5,0
+S0731,Geetika De,Chemical Engineering,1,2023,21,73.22,61.5,5.94,5.8,1,1,paid,14,0
+S0732,Hemal Bava,Computer Science Engineering,3,2022,17,89.38,93.66,6.39,6.36,0,0,paid,4,0
+S0733,Tripti Babu,Computer Science Engineering,2,2020,17,80.05,90.9,5.58,5.82,0,0,overdue,9,0
+S0734,Ridhi Shan,Electronics and Communication Engineering,1,2022,17,81.55,86.17,7.32,7.34,0,0,paid,6,0
+S0735,Samaksh Deo,Information Technology,1,2021,22,43.25,16.92,6.81,6.66,0,0,paid,11,0
+S0736,Nathan Mahal,Production and Industrial Engineering,3,2025,17,79.1,77.89,6.2,6.55,1,1,paid,7,0
+S0737,Zashil Butala,Civil Engineering,4,2021,19,68.58,77.91,6.49,6.72,1,1,paid,4,0
+S0738,Charles Randhawa,Computer Science Engineering,2,2023,22,44.36,25.21,7.47,7.24,0,0,overdue,2,0
+S0739,Vivaan Sanghvi,Computer Science Engineering,2,2021,22,94.79,100.0,8.45,8.21,1,1,paid,10,0
+S0740,Girish Agarwal,Chemical Engineering,3,2020,18,94.63,97.44,7.83,7.65,0,0,paid,10,0
+S0741,Faras Deo,Computer Science Engineering,1,2024,21,52.93,45.97,8.15,8.08,0,0,paid,10,0
+S0742,Zilmil Saxena,Information Technology,4,2025,17,57.27,54.68,7.19,6.55,2,2,paid,5,0
+S0743,Hemal Dara,Biotechnology,2,2022,23,59.18,60.07,5.65,5.77,0,0,paid,15,0
+S0744,Kevin Sridhar,Mechanical Engineering,4,2020,17,46.59,37.16,5.52,5.92,0,0,paid,10,0
+S0745,Leela Chakraborty,Mathematics and Computing,2,2022,22,55.63,51.38,9.15,8.66,0,0,overdue,8,0
+S0746,Harshil Munshi,Mathematics and Computing,1,2024,19,61.27,45.8,6.24,6.05,1,1,overdue,11,0
+S0747,Laksh Raja,Electrical Engineering,2,2023,23,75.91,87.03,5.78,6.18,0,0,overdue,8,0
+S0748,Luke Biswas,Civil Engineering,4,2021,21,98.6,100.0,5.12,5.77,1,1,paid,1,0
+S0749,Nitesh Sarraf,Electrical Engineering,4,2023,19,88.42,100.0,7.97,8.02,1,1,paid,9,0
+S0750,Max Sabharwal,Information Technology,1,2025,21,93.72,100.0,6.9,6.9,0,0,paid,8,0
+S0751,Teerth Chadha,Information Technology,1,2021,17,71.37,69.35,7.52,7.28,1,1,paid,7,0
+S0752,Jatin Rajagopalan,Electrical Engineering,4,2022,19,95.48,100.0,7.86,7.38,1,1,paid,8,0
+S0753,Divya Dey,Computer Science Engineering,1,2023,18,95.97,100.0,6.63,6.56,0,0,overdue,1,0
+S0754,Frado Kothari,Civil Engineering,3,2022,21,47.77,39.22,5.55,6.0,0,0,paid,5,0
+S0755,Avi Mitra,Computer Science Engineering,2,2020,18,83.17,70.26,7.94,7.87,1,1,paid,6,0
+S0756,Manya Merchant,Biotechnology,3,2022,22,52.78,45.34,7.38,7.1,1,1,paid,12,0
+S0757,Wriddhish Talwar,Electronics and Communication Engineering,1,2022,20,84.79,91.6,6.91,7.16,0,0,overdue,12,0
+S0758,Wridesh Tata,Chemical Engineering,4,2022,22,61.72,53.59,9.22,8.24,0,0,paid,7,0
+S0759,Advik Patel,Information Technology,2,2021,19,82.3,75.29,7.37,7.39,0,0,paid,11,0
+S0760,Lila Salvi,Information Technology,4,2021,19,54.63,50.42,8.22,8.01,0,0,paid,0,0
+S0761,Urishilla Bora,Biotechnology,2,2024,17,72.0,76.94,5.57,5.95,0,0,overdue,6,0
+S0762,Akshay Lala,Computer Science Engineering,2,2024,18,78.06,85.68,4.88,5.39,1,1,overdue,7,0
+S0763,Darpan Rao,Computer Science Engineering,1,2023,21,66.47,57.28,7.1,7.06,0,0,paid,5,0
+S0764,Yachana Sagar,Production and Industrial Engineering,2,2025,20,95.1,100.0,6.96,7.17,0,0,paid,7,0
+S0765,Fitan Yadav,Production and Industrial Engineering,1,2022,21,87.41,91.89,5.81,5.9,0,0,paid,11,0
+S0766,Arunima Chacko,Civil Engineering,4,2023,19,85.77,100.0,5.57,6.11,0,0,overdue,4,0
+S0767,Yasti Jani,Computer Science Engineering,1,2024,23,53.82,43.92,6.95,6.96,0,0,paid,4,0
+S0768,Eta Raman,Biotechnology,2,2023,21,82.04,91.48,5.4,5.14,1,1,paid,8,0
+S0769,Dayita Sarkar,Civil Engineering,3,2021,22,59.54,49.45,5.73,5.46,0,0,paid,7,0
+S0770,Dalbir Konda,Chemical Engineering,4,2025,17,63.93,48.14,8.47,7.76,0,0,paid,9,0
+S0771,Jack Setty,Mathematics and Computing,4,2023,21,89.54,100.0,2.17,3.18,0,0,paid,11,1
+S0772,Dayamai Gill,Computer Science Engineering,1,2023,17,90.06,100.0,6.99,6.9,0,0,paid,11,0
+S0773,Laksh Apte,Computer Science Engineering,1,2024,18,94.25,95.9,7.93,7.76,0,0,overdue,12,0
+S0774,Idika Virk,Mechanical Engineering,2,2025,21,69.75,63.6,7.27,7.62,0,0,paid,13,0
+S0775,Ojas Prabhu,Civil Engineering,1,2022,18,53.44,44.47,7.12,7.04,0,0,overdue,4,0
+S0776,Jacob Balan,Production and Industrial Engineering,4,2022,19,72.97,60.31,7.84,7.96,0,0,paid,6,0
+S0777,Anita Viswanathan,Information Technology,1,2023,17,93.4,100.0,6.54,6.8,0,0,paid,6,0
+S0778,Faraj Taneja,Civil Engineering,3,2022,20,39.92,30.82,8.04,7.46,0,0,paid,12,0
+S0779,Christopher Tata,Computer Science Engineering,2,2020,23,65.5,51.8,6.7,6.76,0,0,overdue,16,0
+S0780,Jhalak Dugar,Chemical Engineering,1,2025,19,55.9,64.25,7.54,7.44,1,1,paid,8,0
+S0781,Jack Kari,Chemical Engineering,2,2020,22,76.69,62.97,5.68,5.64,1,1,overdue,15,0
+S0782,Chaitanya Arora,Civil Engineering,1,2025,18,64.61,57.22,6.71,6.42,0,0,paid,0,0
+S0783,Urmi Patla,Mathematics and Computing,1,2025,20,64.84,54.51,7.43,7.5,0,0,paid,4,0
+S0784,Praneel Banik,Mathematics and Computing,2,2025,21,67.43,77.69,7.09,7.38,0,0,paid,15,0
+S0785,Udarsh Nagy,Computer Science Engineering,4,2025,18,64.53,70.73,6.97,7.6,0,0,paid,11,0
+S0786,Ekaja Madan,Electronics and Communication Engineering,2,2024,23,58.8,48.03,7.43,7.52,1,1,paid,12,0
+S0787,Kashish Dar,Mathematics and Computing,3,2023,21,71.54,52.38,6.84,6.99,0,0,paid,7,0
+S0788,Praneel Kapoor,Electrical Engineering,3,2024,23,90.35,100.0,7.64,7.53,0,0,paid,1,0
+S0789,Nandini Biswas,Biotechnology,2,2022,20,88.96,100.0,7.03,6.92,0,0,paid,12,0
+S0790,Deepa Narang,Production and Industrial Engineering,3,2025,17,66.46,71.73,7.23,7.12,2,2,paid,6,0
+S0791,Abhiram Pillay,Production and Industrial Engineering,2,2022,18,77.69,84.6,8.26,8.14,1,1,paid,6,0
+S0792,Daksha Kibe,Civil Engineering,2,2022,20,65.81,66.58,6.34,6.5,1,1,paid,12,0
+S0793,Wakeeta Hayre,Production and Industrial Engineering,3,2021,22,72.91,62.53,9.1,8.58,0,0,overdue,6,0
+S0794,Matthew Ahuja,Biotechnology,4,2024,20,75.05,75.21,4.2,5.12,0,0,paid,6,0
+S0795,Viraj Pal,Computer Science Engineering,1,2023,22,88.5,99.08,4.64,4.84,1,2,paid,10,1
+S0796,Gautami Agarwal,Mechanical Engineering,2,2021,23,90.51,87.85,7.81,7.71,0,0,paid,10,0
+S0797,Damyanti Chawla,Computer Science Engineering,3,2021,18,73.82,79.74,6.32,6.81,0,0,paid,6,0
+S0798,Oni Swamy,Biotechnology,1,2022,17,75.52,81.37,7.62,7.54,0,0,paid,12,0
+S0799,Ati Chander,Electrical Engineering,4,2024,17,73.23,65.29,6.9,6.91,0,0,overdue,11,0
+S0800,Zinal Sachar,Mechanical Engineering,1,2025,22,78.8,80.64,7.3,7.32,0,0,paid,6,0
