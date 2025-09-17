@@ -1,50 +1,63 @@
-const express = require('express');
-const cors = require('cors');
+const express = require("express");
+const bodyParser = require("body-parser");
+const { google } = require("googleapis");
 
 const app = express();
-const PORT = process.env.PORT || 3000;
+app.use(bodyParser.json());
 
-app.use(cors());
-app.use(express.json());
-app.use(express.urlencoded({ extended: true }));
+const auth = new google.auth.GoogleAuth({
+  keyFile: "student-risk-eaa67dbdaf24.json",
+  scopes: ["https://www.googleapis.com/auth/spreadsheets"],
+});
 
-app.post('/api/analyze-student', async (req, res) => {
-  const student = req.body;
+const spreadsheetId = "1HZz4CC05aKQoAWnA6gShj2D0S7Ztg3KOO9wNUzfOXRg";
+const sheetName = "Sheet1";
 
+// Risk calculation
+function getRiskAndReason(attendance, marks) {
+  let risk = "Green";
+  let reason = "Good performance";
+
+  if (attendance < 75) {
+    risk = "Red";
+    reason = "Low attendance (< 75%)";
+  } else if (marks < 40) {
+    risk = "Red";
+    reason = "Very low marks (< 40)";
+  } else if (marks < 60) {
+    risk = "Yellow";
+    reason = "Moderate marks (40–59)";
+  }
+
+  return { risk, reason };
+
+}
+
+app.post("/addStudent", async (req, res) => {
   try {
-    // Forward the student data directly to your FastAPI microservice
-    const aiResponse = await fetch('http://localhost:8000/predict', {
-      method: 'POST',
-      headers: {
-        'Content-Type': 'application/json'
+    const { name, attendance, marks, feeStatus } = req.body;
+
+    const { risk, reason } = getRiskAndReason(attendance, marks);
+
+    const client = await auth.getClient();
+    const sheets = google.sheets({ version: "v4", auth: client });
+
+    await sheets.spreadsheets.values.append({
+      spreadsheetId,
+      range: `${sheetName}!A:F`,
+      valueInputOption: "USER_ENTERED",
+      requestBody: {
+        values: [[name, attendance, marks, feeStatus || "", risk, reason]],
       },
-      body: JSON.stringify(student),
     });
 
-    if (!aiResponse.ok) {
-      throw new Error(`AI service failed with status: ${aiResponse.status}`);
-    }
-
-    // Get the prediction from the AI service
-    const predictionResult = await aiResponse.json();
-
-    // Send the AI service's response directly back to the frontend
-    res.status(200).json(predictionResult);
-
-  } catch (error) {
-    console.error('Error during AI analysis:', error);
-    res.status(500).json({
-      message: 'Internal server error. Failed to get prediction from AI service.',
-      error: error.message,
-    });
+    res.json({ status: "success", name, risk, reason });
+  } catch (err) {
+    console.error("Error:", err);
+    res.status(500).send("Something went wrong");
   }
 });
 
-// A simple root endpoint to confirm the server is running
-app.get('/', (req, res) => {
-  res.send('Backend for Student Retention Platform is running!');
-});
-
-app.listen(PORT, () => {
-  console.log(`Node.js server running on http://localhost:${PORT}`);
+app.listen(3000, () => {
+  console.log("✅ Server running on http://localhost:3000");
 });
